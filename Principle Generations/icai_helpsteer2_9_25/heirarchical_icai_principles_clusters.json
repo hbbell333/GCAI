@@ -1,0 +1,3843 @@
+[
+    {
+        "cluster_id": 0,
+        "principles": [
+            "Select the response that provides detailed allegations and context.",
+            "Select the response that includes more detailed context.",
+            "Select the response that provides detailed contextual information.",
+            "Select the response that provides more detailed biographical information.",
+            "Select the response that provides more detailed background information.",
+            "Select the response that provides more detailed context.",
+            "Select the response that provides more detail about the team.",
+            "Select the response that includes more detailed member information.",
+            "Select the response that includes more detailed subject breakdowns.",
+            "Select the response that includes detailed accounts and analysis.",
+            "Select the response that provides more detailed context."
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "principles": [
+            "Select the response that includes more detailed descriptions of processes.",
+            "Select the response that provides a more detailed personal recommendation.",
+            "Select the response that provides more detailed type explanations.",
+            "Select the response that provides more detailed descriptions.",
+            "Select the response that provides more detailed descriptions.",
+            "Select the response that provides more detailed guidance.",
+            "Select the response that provides more detailed product description.",
+            "Select the response that provides a more detailed process.",
+            "Select the response that provides more detailed study materials.",
+            "Select the response that provides more detailed assistance.",
+            "Select the response that offers more specific assistance.",
+            "Select the response that provides more detailed course descriptions."
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "principles": [
+            "Select the response that includes migration support explicitly.",
+            "Select the response that focuses on stress-free moving experience.",
+            "Select the response that includes detailed data migration strategies."
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "principles": [
+            "Select the response that emphasizes repression and control mechanisms more.",
+            "Select the response that emphasizes FCRA rights more clearly.",
+            "Select the response that emphasizes compliance requirements clearly.",
+            "Select the response that emphasizes the need for permissions.",
+            "Select the response that emphasizes rule enforcement and authority."
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "principles": [
+            "Select the response that emphasizes collaboration over conflict.",
+            "Select the response that highlights team collaboration and growth.",
+            "Select the response that emphasizes collaboration with partners and sponsors.",
+            "Select the response that highlights collaboration across multiple disciplines.",
+            "Select the response that emphasizes teamwork and collaboration.",
+            "Select the response that includes expert collaboration for credibility.",
+            "Select the response that emphasizes teamwork and collaboration.",
+            "Select the response that emphasizes collaboration with other teams.",
+            "Select the response that emphasizes collaboration with experts.",
+            "Select the response that focuses on team collaboration and learning."
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "principles": [
+            "Select the response that emphasizes quantum mechanics principles more clearly.",
+            "Select the response that emphasizes Quine's philosophical worldview.",
+            "Select the response that attributes the theory to Einstein."
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "principles": [
+            "Select the response that emphasizes societal implications of overconfidence.",
+            "Select the response that highlights the consequences of cheating.",
+            "Select the response that emphasizes long-term implications of convictions.",
+            "Select the response that emphasizes long-term consequences of events."
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "principles": [
+            "Select the response that emphasizes color grading applications.",
+            "Select the response that maintains consistent high contrast themes.",
+            "Select the response that discusses mana balance and color distribution."
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "principles": [
+            "Select the response that emphasizes client liaison and expectations.",
+            "Select the response that emphasizes conversational capabilities more clearly.",
+            "Select the response that emphasizes tracking conversation threads.",
+            "Select the response that emphasizes feedback and guidance throughout.",
+            "Select the response that emphasizes user assistance more clearly.",
+            "Select the response that emphasizes detailed guidance and collaboration."
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "principles": [
+            "Select the response that includes specific examples of regimes.",
+            "Select the response that provides specific examples of fundraising efforts.",
+            "Select the response that provides a specific example of a tree.",
+            "Select the response that provides specific examples of traditions.",
+            "Select the response that provides specific examples of services.",
+            "Select the response that provides specific examples for principles.",
+            "Select the response that provides specific examples and advice.",
+            "Select the response that provides examples for each property.",
+            "Select the response that includes specific examples of Speakers.",
+            "Select the response that includes specific examples of differentials."
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "principles": [
+            "Select the response that emphasizes finding an online officiant.",
+            "Select the response that includes specific age requirements for marriage.",
+            "Select the response that addresses historical context of marriage."
+        ]
+    },
+    {
+        "cluster_id": 11,
+        "principles": [
+            "Select the response that accurately states Obama's presidency timeline.",
+            "Select the response that clarifies Obama's absence during COVID-19.",
+            "Select the response that highlights Biden's key state victories."
+        ]
+    },
+    {
+        "cluster_id": 12,
+        "principles": [
+            "Select the response that emphasizes limitations of magnet use.",
+            "Select the response that focuses on practical applications of magnets.",
+            "Select the response that discusses Maglev technology in detail."
+        ]
+    },
+    {
+        "cluster_id": 13,
+        "principles": [
+            "Select the response that expresses personal fascination and appreciation.",
+            "Select the response that expresses admiration or appreciation.",
+            "Select the response that includes a successful outcome and celebration.",
+            "Select the response that showcases personal achievements and goals."
+        ]
+    },
+    {
+        "cluster_id": 14,
+        "principles": [
+            "Select the response that includes more personality types.",
+            "Select the response that provides detailed descriptions of traits.",
+            "Select the response that includes more personal traits and interests.",
+            "Select the response that includes more detailed personas.",
+            "Select the response that provides detailed personality analysis.",
+            "Select the response that explores positive and negative traits.",
+            "Select the response that outlines specific traits and skills required."
+        ]
+    },
+    {
+        "cluster_id": 15,
+        "principles": [
+            "Select the response that includes specific actions to show care.",
+            "Select the response that includes specific nursing specializations available.",
+            "Select the response that includes specific corrective actions taken.",
+            "Select the response that includes specific practice activities.",
+            "Select the response that includes specific practice opportunities for students.",
+            "Select the response that includes specific guidelines for content."
+        ]
+    },
+    {
+        "cluster_id": 16,
+        "principles": [
+            "Select the response that discusses the impact of his work.",
+            "Select the response that explains noise and its effects."
+        ]
+    },
+    {
+        "cluster_id": 17,
+        "principles": [
+            "Select the response that provides detailed meditation guidance.",
+            "Select the response that explains core Buddhist concepts clearly.",
+            "Select the response that focuses on well-known yoga influencers."
+        ]
+    },
+    {
+        "cluster_id": 18,
+        "principles": [
+            "Select the response that expresses concern for patient well-being.",
+            "Select the response that emphasizes self-compassion and acceptance.",
+            "Select the response that expresses concern and love for the individual.",
+            "Select the response that portrays a more compassionate interaction with others.",
+            "Select the response that emphasizes emotional connection and compassion."
+        ]
+    },
+    {
+        "cluster_id": 19,
+        "principles": [
+            "Select the response that uses more engaging and dynamic language.",
+            "Select the response that uses more rhythmic and catchy phrasing.",
+            "Select the response that uses engaging and catchy language.",
+            "Select the response that uses modern vernacular language.",
+            "Select the response that includes a more engaging chorus.",
+            "Select the response that uses more vivid and impactful language."
+        ]
+    },
+    {
+        "cluster_id": 20,
+        "principles": [
+            "Select the response that provides actionable app development ideas.",
+            "Select the response that outlines a comprehensive development roadmap.",
+            "Select the response that provides comprehensive guidance for Scrum Masters."
+        ]
+    },
+    {
+        "cluster_id": 21,
+        "principles": [
+            "Select the response that emphasizes brandability and memorability.",
+            "Select the response that emphasizes message publishing clarity.",
+            "Select the response that emphasizes the channel's founding history.",
+            "Select the response that emphasizes organization and management of ads."
+        ]
+    },
+    {
+        "cluster_id": 22,
+        "principles": [
+            "Select the response that includes more interactive exercise options.",
+            "Select the response that emphasizes real-time interactivity more.",
+            "Select the response that includes interactive exercises for engagement.",
+            "Select the response that emphasizes hands-on experiences and interactivity.",
+            "Select the response that emphasizes experiential learning and immersion.",
+            "Select the response that encourages interactive learning."
+        ]
+    },
+    {
+        "cluster_id": 23,
+        "principles": [
+            "Select the response that emphasizes the transformative power of hypernomics.",
+            "Select the response that showcases a unique perspective from MBA studies."
+        ]
+    },
+    {
+        "cluster_id": 24,
+        "principles": [
+            "Select the response that provides detailed power specifications.",
+            "Select the response that provides detailed equipment information.",
+            "Select the response that addresses specific sailing equipment needs.",
+            "Select the response that provides specific AC values."
+        ]
+    },
+    {
+        "cluster_id": 25,
+        "principles": [
+            "Select the response that explains CSR usage in operating systems.",
+            "Select the response that highlights the default behavior of browsers."
+        ]
+    },
+    {
+        "cluster_id": 26,
+        "principles": [
+            "Select the response that highlights higher follower counts.",
+            "Select the response that provides lower search volume data.",
+            "Select the response that includes a longer workout duration.",
+            "Select the response that includes specific percentage increases.",
+            "Select the response that includes a larger sample size."
+        ]
+    },
+    {
+        "cluster_id": 27,
+        "principles": [
+            "Select the response that emphasizes evaluating coach credentials and fit.",
+            "Select the response that includes practical resources for coaches.",
+            "Select the response that emphasizes ethical considerations in coaching.",
+            "Select the response that emphasizes targeted interventions for athletes.",
+            "Select the response that emphasizes athlete empowerment and equity."
+        ]
+    },
+    {
+        "cluster_id": 28,
+        "principles": [
+            "Select the response that accumulates values for output.",
+            "Select the response that uses shift registers for data handling.",
+            "Select the response that focuses on input-to-output mapping."
+        ]
+    },
+    {
+        "cluster_id": 29,
+        "principles": [
+            "Select the response that expresses optimism for future events.",
+            "Select the response that focuses on hope and peace themes.",
+            "Select the response that presents a more optimistic future.",
+            "Select the response that conveys a stronger sense of hope.",
+            "Select the response that emphasizes hope and perseverance themes."
+        ]
+    },
+    {
+        "cluster_id": 30,
+        "principles": [
+            "Select the response that clarifies auto-layout limitations for groups.",
+            "Select the response that explains nested components clearly.",
+            "Select the response that highlights container relationships explicitly."
+        ]
+    },
+    {
+        "cluster_id": 31,
+        "principles": [
+            "Select the response that contains a geographical fact.",
+            "Select the response that involves a natural feature.",
+            "Select the response that includes geographical context and location details.",
+            "Select the response that provides clearer geodesic distance explanations.",
+            "Select the response that uses more descriptive spatial terminology."
+        ]
+    },
+    {
+        "cluster_id": 32,
+        "principles": [
+            "Select the response that highlights stunning artwork and visuals.",
+            "Select the response that provides a clearer animation creation process.",
+            "Select the response that provides a visual representation.",
+            "Select the response that includes specific tools for wireframe creation."
+        ]
+    },
+    {
+        "cluster_id": 33,
+        "principles": [
+            "Select the response that emphasizes practical usage of enumerate().",
+            "Select the response that focuses on concise numerical sequences.",
+            "Select the response that provides specific numerical data.",
+            "Select the response that provides specific numerical examples."
+        ]
+    },
+    {
+        "cluster_id": 34,
+        "principles": [
+            "Select the response that emphasizes natural aging and death.",
+            "Select the response that discusses scientific evidence against immortality.",
+            "Select the response that provides a detailed explanation of aging."
+        ]
+    },
+    {
+        "cluster_id": 35,
+        "principles": [
+            "Select the response that includes all sheep names and times.",
+            "Select the response that lists universally recognized songs."
+        ]
+    },
+    {
+        "cluster_id": 36,
+        "principles": [
+            "Select the response that discusses multiple human rights abuses.",
+            "Select the response that presents multiple perspectives on the massacre.",
+            "Select the response that includes broader regional implications and conflicts.",
+            "Select the response that highlights the consequences of civil war."
+        ]
+    },
+    {
+        "cluster_id": 37,
+        "principles": [
+            "Select the response that requires high-level content processing.",
+            "Select the response that includes clear data transformation requirements.",
+            "Select the response that addresses potential edge cases explicitly.",
+            "Select the response that includes error handling requirements."
+        ]
+    },
+    {
+        "cluster_id": 38,
+        "principles": [
+            "Select the response that includes diverse platforms for influencers.",
+            "Select the response that provides diverse engagement methods.",
+            "Select the response that includes diverse post ideas.",
+            "Select the response that includes a dedicated blog section."
+        ]
+    },
+    {
+        "cluster_id": 39,
+        "principles": [
+            "Select the response that provides detailed parliamentary structure.",
+            "Select the response that includes roles of Speaker and Deputy Speaker.",
+            "Select the response that emphasizes parliamentary powers and responsibilities.",
+            "Select the response that clarifies the election process of the Speaker."
+        ]
+    },
+    {
+        "cluster_id": 40,
+        "principles": [
+            "Select the response that provides specific content about kickboxing.",
+            "Select the response that describes specific stretching techniques in detail."
+        ]
+    },
+    {
+        "cluster_id": 41,
+        "principles": [
+            "Select the response that provides a broader range of crimes.",
+            "Select the response that includes detailed explanations for each crime.",
+            "Select the response that includes a police report mention."
+        ]
+    },
+    {
+        "cluster_id": 42,
+        "principles": [
+            "Select the response that explains bond price movements clearly.",
+            "Select the response that explains reinforcement learning concepts clearly.",
+            "Select the response that explains the expected value concept clearly."
+        ]
+    },
+    {
+        "cluster_id": 43,
+        "principles": [
+            "Select the response that includes notable cast and crew details.",
+            "Select the response that includes specific episode references.",
+            "Select the response that includes specific premiere episode details.",
+            "Select the response that includes specific actor names and roles."
+        ]
+    },
+    {
+        "cluster_id": 44,
+        "principles": [
+            "Select the response that includes specific antibiotic options.",
+            "Select the response that provides detailed medication side effects.",
+            "Select the response that includes specific drug types used.",
+            "Select the response that provides detailed information on disinfectants."
+        ]
+    },
+    {
+        "cluster_id": 45,
+        "principles": [
+            "Select the response that provides specific health-related exercise advice.",
+            "Select the response that includes specific demographic recommendations for exams.",
+            "Select the response that emphasizes actionable recommendations for Boston Scientific."
+        ]
+    },
+    {
+        "cluster_id": 46,
+        "principles": [
+            "Select the response that provides specific statistics on unlicensed drivers.",
+            "Select the response that discusses road infrastructure and statistics."
+        ]
+    },
+    {
+        "cluster_id": 47,
+        "principles": [
+            "Select the response that includes engaging illustrations for children.",
+            "Select the response that emphasizes child development and agency.",
+            "Select the response that includes practical examples for children.",
+            "Select the response that emphasizes children's eating habits.",
+            "Select the response that encourages parental understanding of preferences."
+        ]
+    },
+    {
+        "cluster_id": 48,
+        "principles": [
+            "Select the response that includes direct quotes from riders.",
+            "Select the response that uses a relevant quote from Taylor Swift."
+        ]
+    },
+    {
+        "cluster_id": 49,
+        "principles": [
+            "Select the response that emphasizes community engagement and impact.",
+            "Select the response that emphasizes community stakeholder collaboration.",
+            "Select the response that emphasizes community mobilization efforts.",
+            "Select the response that emphasizes community empowerment more clearly.",
+            "Select the response that emphasizes customer service and community outreach.",
+            "Select the response that highlights community contributions and support.",
+            "Select the response that emphasizes local stakeholder involvement.",
+            "Select the response that includes community involvement and volunteering.",
+            "Select the response that highlights community impact and values."
+        ]
+    },
+    {
+        "cluster_id": 50,
+        "principles": [
+            "Select the response that mentions monitoring for allergic reactions.",
+            "Select the response that emphasizes potential drug interactions.",
+            "Select the response that includes potential interactions with objects."
+        ]
+    },
+    {
+        "cluster_id": 51,
+        "principles": [
+            "Select the response that discusses government policies influencing prices.",
+            "Select the response that discusses financial assistance programs available.",
+            "Select the response that discusses specific solutions to affordability."
+        ]
+    },
+    {
+        "cluster_id": 52,
+        "principles": [
+            "Select the response that includes specific terminology like 'Via Sagularis'.",
+            "Select the response that provides specific keyword examples.",
+            "Select the response that includes more specific keyword variations.",
+            "Select the response that includes specific terminology like 'campaign' and 'ad group'."
+        ]
+    },
+    {
+        "cluster_id": 53,
+        "principles": [
+            "Select the response that provides a detailed cycle explanation.",
+            "Select the response that provides a comprehensive explanation for closure."
+        ]
+    },
+    {
+        "cluster_id": 54,
+        "principles": [
+            "Select the response that emphasizes the purpose of the HS code.",
+            "Select the response that emphasizes current trends in packaging."
+        ]
+    },
+    {
+        "cluster_id": 55,
+        "principles": [
+            "Select the response that emphasizes patience and perspective.",
+            "Select the response that emphasizes human free will more clearly.",
+            "Select the response that emphasizes communication and understanding.",
+            "Select the response that emphasizes human understanding limitations.",
+            "Select the response that emphasizes understanding over efficiency."
+        ]
+    },
+    {
+        "cluster_id": 56,
+        "principles": [
+            "Select the response that emphasizes user-friendly password management.",
+            "Select the response that focuses on ease of use and accessibility.",
+            "Select the response that emphasizes user-friendliness and simplicity.",
+            "Select the response that is more user-friendly for non-developers.",
+            "Select the response that emphasizes ease of use and deployment."
+        ]
+    },
+    {
+        "cluster_id": 57,
+        "principles": [
+            "Select the response that emphasizes safety and efficiency in electricity.",
+            "Select the response that emphasizes safety and protocols.",
+            "Select the response that emphasizes cultural awareness and safety.",
+            "Select the response that emphasizes safety gear and protection.",
+            "Select the response that emphasizes safety and comfort.",
+            "Select the response that promotes safety and well-being.",
+            "Select the response that includes safety and lighting considerations.",
+            "Select the response that emphasizes safety and regulations more.",
+            "Select the response that emphasizes safety precautions and training.",
+            "Select the response that emphasizes personal responsibility and safety.",
+            "Select the response that emphasizes safety and compliance aspects."
+        ]
+    },
+    {
+        "cluster_id": 58,
+        "principles": [
+            "Select the response that includes a clear emotional arc for Perry.",
+            "Select the response that discusses emotional responses in detail.",
+            "Select the response that emphasizes emotional expression through movement.",
+            "Select the response that demonstrates personal engagement and emotion.",
+            "Select the response that conveys a stronger emotional reaction.",
+            "Select the response that emphasizes cognitive and emotional aspects.",
+            "Select the response that provides more detailed emotional reasons.",
+            "Select the response that showcases clear emotional engagement.",
+            "Select the response that emphasizes emotional transformation more clearly.",
+            "Select the response that focuses on emotional and symbolic depth."
+        ]
+    },
+    {
+        "cluster_id": 59,
+        "principles": [
+            "Select the response that provides detailed package features.",
+            "Select the response that discusses program features and benefits.",
+            "Select the response that provides more detailed benefits.",
+            "Select the response that includes specific features and benefits.",
+            "Select the response that presents a concise overview of group benefits.",
+            "Select the response that emphasizes company culture and benefits."
+        ]
+    },
+    {
+        "cluster_id": 60,
+        "principles": [
+            "Select the response that includes multiple ancient literary works.",
+            "Select the response that emphasizes Shakespearean dialogue and themes.",
+            "Select the response that emphasizes mythic heroism and language.",
+            "Select the response that contrasts epic and philosophical styles.",
+            "Select the response that engages with thematic elements and imagery."
+        ]
+    },
+    {
+        "cluster_id": 61,
+        "principles": [
+            "Select the response that emphasizes antioxidants in fruits and vegetables.",
+            "Select the response that features more diverse fruit types.",
+            "Select the response that emphasizes unique textures and flavors.",
+            "Select the response that emphasizes fresh herbs for flavor."
+        ]
+    },
+    {
+        "cluster_id": 62,
+        "principles": [
+            "Select the response that clarifies the network adapter's communication role.",
+            "Select the response that emphasizes NAT gateway functionality clearly.",
+            "Select the response that explains NAT gateway management by AWS."
+        ]
+    },
+    {
+        "cluster_id": 63,
+        "principles": [
+            "Select the response that details time and space complexity more thoroughly.",
+            "Select the response that emphasizes the complexity of detection.",
+            "Select the response that emphasizes cache complexity factors more thoroughly.",
+            "Select the response that emphasizes complexity over simple repetition.",
+            "Select the response that highlights complexity of the task."
+        ]
+    },
+    {
+        "cluster_id": 64,
+        "principles": [
+            "Select the response that includes criticism of the hypothesis.",
+            "Select the response that conveys sarcasm and skepticism.",
+            "Select the response that emphasizes empirical skepticism over belief."
+        ]
+    },
+    {
+        "cluster_id": 65,
+        "principles": [
+            "Select the response that clearly distinguishes between cell types.",
+            "Select the response that includes specific electrical components and functions.",
+            "Select the response that specifies a phone type clearly.",
+            "Select the response that describes the device's function clearly."
+        ]
+    },
+    {
+        "cluster_id": 66,
+        "principles": [
+            "Select the response that emphasizes deep learning models.",
+            "Select the response that highlights TensorFlow's capabilities for model building.",
+            "Select the response that emphasizes multi-modal deep learning approach.",
+            "Select the response that emphasizes predictive modeling techniques.",
+            "Select the response that emphasizes diverse language model techniques.",
+            "Select the response that emphasizes feature concatenation for models."
+        ]
+    },
+    {
+        "cluster_id": 67,
+        "principles": [
+            "Select the response that highlights dynamic information retrieval features.",
+            "Select the response that includes specific data mining techniques.",
+            "Select the response that emphasizes specific SQL and Python skills.",
+            "Select the response that emphasizes data science techniques more.",
+            "Select the response that emphasizes advanced query features and aggregations."
+        ]
+    },
+    {
+        "cluster_id": 68,
+        "principles": [
+            "Select the response that highlights goal management features specifically.",
+            "Select the response that includes management aspects in detail.",
+            "Select the response that includes detailed account management features.",
+            "Select the response that highlights project management and tracking.",
+            "Select the response that focuses on aligning projects with business goals."
+        ]
+    },
+    {
+        "cluster_id": 69,
+        "principles": [
+            "Select the response that provides the most current CEO information.",
+            "Select the response that focuses on gaming industry specifics.",
+            "Select the response that focuses on a specific company.",
+            "Select the response that emphasizes the importance of company size.",
+            "Select the response that provides a detailed corporate structure.",
+            "Select the response that includes specific subsidiaries and divisions."
+        ]
+    },
+    {
+        "cluster_id": 70,
+        "principles": [
+            "Select the response that invites interaction and engagement with questions.",
+            "Select the response that encourages engagement and questions.",
+            "Select the response that encourages more questions explicitly.",
+            "Select the response that invites collaboration and engagement.",
+            "Select the response that encourages critical discussion and engagement.",
+            "Select the response that invites further engagement and discussion.",
+            "Select the response that is open-ended and encourages elaboration.",
+            "Select the response that encourages user engagement and feedback.",
+            "Select the response that includes a clear invitation for questions."
+        ]
+    },
+    {
+        "cluster_id": 71,
+        "principles": [
+            "Select the response that offers more modern technology options.",
+            "Select the response that highlights industry-specific trends and technologies.",
+            "Select the response that includes detailed technological advancements.",
+            "Select the response that emphasizes emerging technologies and trends.",
+            "Select the response that emphasizes applications in technology and science.",
+            "Select the response that encourages exploration of new technologies.",
+            "Select the response that emphasizes frustration with new technologies.",
+            "Select the response that emphasizes technological advancements more clearly."
+        ]
+    },
+    {
+        "cluster_id": 72,
+        "principles": [
+            "Select the response that focuses on financial concepts and terminology.",
+            "Select the response that connects Locke's ideas to personal finance.",
+            "Select the response that includes specific economic concepts and questions."
+        ]
+    },
+    {
+        "cluster_id": 73,
+        "principles": [
+            "Select the response that highlights the importance of hydration.",
+            "Select the response that emphasizes benefits of aeroponics."
+        ]
+    },
+    {
+        "cluster_id": 74,
+        "principles": [
+            "Select the response that discusses broader application contexts.",
+            "Select the response that emphasizes privileged instruction context.",
+            "Select the response that provides a broader context.",
+            "Select the response that provides broader theoretical context.",
+            "Select the response that focuses on adaptation to local context."
+        ]
+    },
+    {
+        "cluster_id": 75,
+        "principles": [
+            "Select the response that emphasizes battery and data savings.",
+            "Select the response that focuses on sustainability and efficiency.",
+            "Select the response that emphasizes efficiency improvements.",
+            "Select the response that emphasizes efficiency in sales processes.",
+            "Select the response that includes a focus on energy efficiency."
+        ]
+    },
+    {
+        "cluster_id": 76,
+        "principles": [
+            "Select the response that emphasizes cultural and historical aspects.",
+            "Select the response that mentions cultural impact and legacy.",
+            "Select the response that emphasizes cultural significance and diversity.",
+            "Select the response that emphasizes cultural fusion in titles.",
+            "Select the response that emphasizes cultural diversity and attractions.",
+            "Select the response that includes cultural exploration aspects.",
+            "Select the response that emphasizes cultural impact more."
+        ]
+    },
+    {
+        "cluster_id": 77,
+        "principles": [
+            "Select the response that emphasizes compatibility with PoE standards.",
+            "Select the response that emphasizes the MAC address's permanence."
+        ]
+    },
+    {
+        "cluster_id": 78,
+        "principles": [
+            "Select the response that provides more detailed training options.",
+            "Select the response that emphasizes model training requirements.",
+            "Select the response that emphasizes the need for training.",
+            "Select the response that provides detailed training advice.",
+            "Select the response that provides more detailed preparation tips."
+        ]
+    },
+    {
+        "cluster_id": 79,
+        "principles": [
+            "Select the response that highlights key decisions made.",
+            "Select the response that outlines key lessons from the book.",
+            "Select the response that repeats key ideas for emphasis.",
+            "Select the response that provides detailed key points."
+        ]
+    },
+    {
+        "cluster_id": 80,
+        "principles": [
+            "Select the response that balances tragedy with comedic elements effectively.",
+            "Select the response that emphasizes personal struggles and drama.",
+            "Select the response that emphasizes emotional conflict and tragedy.",
+            "Select the response that emphasizes character's internal conflict."
+        ]
+    },
+    {
+        "cluster_id": 81,
+        "principles": [
+            "Select the response that includes evidence gathering for claims.",
+            "Select the response that includes a specific reason for denial.",
+            "Select the response that includes dispute resolution options."
+        ]
+    },
+    {
+        "cluster_id": 82,
+        "principles": [
+            "Select the response that offers specific functions for analysis.",
+            "Select the response that provides more specific tool examples.",
+            "Select the response that includes more established tools.",
+            "Select the response that provides detailed tool descriptions.",
+            "Select the response that discusses evaluation criteria for tools.",
+            "Select the response that includes unique features and tools.",
+            "Select the response that includes specific analytical tools and methods.",
+            "Select the response that provides more detailed tool options."
+        ]
+    },
+    {
+        "cluster_id": 83,
+        "principles": [
+            "Select the response that maintains a consistent instructional tone.",
+            "Select the response that maintains a neutral tone throughout.",
+            "Select the response that maintains a consistent focus on language.",
+            "Select the response that maintains a neutral tone.",
+            "Select the response that emphasizes consistency across channels."
+        ]
+    },
+    {
+        "cluster_id": 84,
+        "principles": [
+            "Select the response that highlights notification triggering process.",
+            "Select the response that includes critical hit explanation."
+        ]
+    },
+    {
+        "cluster_id": 85,
+        "principles": [
+            "Select the response that emphasizes personal alignment with Stripe's mission.",
+            "Select the response that emphasizes compliance with LinkedIn policies."
+        ]
+    },
+    {
+        "cluster_id": 86,
+        "principles": [
+            "Select the response that includes specific references to shared experiences.",
+            "Select the response that emphasizes personal experience and engagement.",
+            "Select the response that emphasizes community and shared experiences.",
+            "Select the response that addresses personal circumstances and preferences.",
+            "Select the response that emphasizes positive personal experiences.",
+            "Select the response that captures a more personal interaction.",
+            "Select the response that emphasizes personal experience and excitement.",
+            "Select the response that uses more vivid personal experiences.",
+            "Select the response that emphasizes personal experience and expertise.",
+            "Select the response that emphasizes personal familiarity with the issue."
+        ]
+    },
+    {
+        "cluster_id": 87,
+        "principles": [
+            "Select the response that emphasizes OGSA and distributed applications.",
+            "Select the response that discusses multi-core and distributed environments.",
+            "Select the response that emphasizes container management without servers."
+        ]
+    },
+    {
+        "cluster_id": 88,
+        "principles": [
+            "Select the response that addresses organizational problem-solving.",
+            "Select the response that directly addresses the statement's truth.",
+            "Select the response that offers a clear solution to the query.",
+            "Select the response that offers comprehensive solutions to challenges."
+        ]
+    },
+    {
+        "cluster_id": 89,
+        "principles": [
+            "Select the response that emphasizes the evolution of POS systems.",
+            "Select the response that emphasizes historical evolution of the role."
+        ]
+    },
+    {
+        "cluster_id": 90,
+        "principles": [
+            "Select the response that features animals and nature themes.",
+            "Select the response that emphasizes unique traits of vultures.",
+            "Select the response that includes a wider variety of animals.",
+            "Select the response that emphasizes animal traits and characteristics."
+        ]
+    },
+    {
+        "cluster_id": 91,
+        "principles": [
+            "Select the response that emphasizes political implications and relationships.",
+            "Select the response that emphasizes cultural and political implications.",
+            "Select the response that emphasizes political rivalry and betrayal.",
+            "Select the response that discusses the political implications of actions.",
+            "Select the response that emphasizes political implications and consequences."
+        ]
+    },
+    {
+        "cluster_id": 92,
+        "principles": [
+            "Select the response that focuses on application routing in Nginx.",
+            "Select the response that details traffic routing and IP address usage."
+        ]
+    },
+    {
+        "cluster_id": 93,
+        "principles": [
+            "Select the response that asks more detailed questions.",
+            "Select the response that includes more detailed situational questions.",
+            "Select the response that includes more detailed question examples.",
+            "Select the response that includes thoughtful questions for the interviewer.",
+            "Select the response that emphasizes specific details of the interview."
+        ]
+    },
+    {
+        "cluster_id": 94,
+        "principles": [
+            "Select the response that offers a comprehensive view of causes.",
+            "Select the response that provides specific causes of cancer.",
+            "Select the response that focuses on multiple contributing factors."
+        ]
+    },
+    {
+        "cluster_id": 95,
+        "principles": [
+            "Select the response that includes telehealth integration for accessibility.",
+            "Select the response that highlights mobile access benefits.",
+            "Select the response that emphasizes universal healthcare access.",
+            "Select the response that highlights community support for healthcare access."
+        ]
+    },
+    {
+        "cluster_id": 96,
+        "principles": [
+            "Select the response that includes eligibility criteria and documentation.",
+            "Select the response that includes specific qualifications for candidates.",
+            "Select the response that provides detailed criteria for recruitment."
+        ]
+    },
+    {
+        "cluster_id": 97,
+        "principles": [
+            "Select the response that presents accurate election results.",
+            "Select the response that emphasizes the importance of voter education.",
+            "Select the response that includes specific technological advancements for elections."
+        ]
+    },
+    {
+        "cluster_id": 98,
+        "principles": [
+            "Select the response that emphasizes website design expertise.",
+            "Select the response that focuses on SEO and relevance.",
+            "Select the response that demonstrates expertise in web development."
+        ]
+    },
+    {
+        "cluster_id": 99,
+        "principles": [
+            "Select the response that provides a more detailed architecture.",
+            "Select the response that features detailed design descriptions.",
+            "Select the response that provides detailed design considerations.",
+            "Select the response that emphasizes model architecture and design.",
+            "Select the response that avoids excessive detail on model deployment."
+        ]
+    },
+    {
+        "cluster_id": 100,
+        "principles": [
+            "Select the response that includes specific locations for activities.",
+            "Select the response that includes specific attractions and activities.",
+            "Select the response that highlights specific activities and interests.",
+            "Select the response that shows a broader range of interests."
+        ]
+    },
+    {
+        "cluster_id": 101,
+        "principles": [
+            "Select the response that emphasizes character development and storytelling.",
+            "Select the response that emphasizes character growth and change.",
+            "Select the response that highlights character development through testing.",
+            "Select the response that shows character interaction and development.",
+            "Select the response that highlights character dynamics and decision-making.",
+            "Select the response that emphasizes character development and friendship.",
+            "Select the response that emphasizes emotional storytelling and character depth.",
+            "Select the response that introduces new characters and conflict."
+        ]
+    },
+    {
+        "cluster_id": 102,
+        "principles": [
+            "Select the response that emphasizes modularity and independence.",
+            "Select the response that emphasizes asynchronous programming techniques.",
+            "Select the response that emphasizes Lua's lightweight nature."
+        ]
+    },
+    {
+        "cluster_id": 103,
+        "principles": [
+            "Select the response that focuses on non-profit specific skills.",
+            "Select the response that highlights specific skills in prompt engineering.",
+            "Select the response that highlights specific product development experience.",
+            "Select the response that emphasizes behavioral and technical questions.",
+            "Select the response that emphasizes skill application and engagement.",
+            "Select the response that highlights technical expertise and problem-solving.",
+            "Select the response that emphasizes critical thinking skills."
+        ]
+    },
+    {
+        "cluster_id": 104,
+        "principles": [
+            "Select the response that uses more poetic language and imagery.",
+            "Select the response that uses more vivid imagery and metaphors.",
+            "Select the response that uses more vivid cowboy imagery.",
+            "Select the response that uses more vivid imagery and symbolism.",
+            "Select the response that uses more vivid imagery."
+        ]
+    },
+    {
+        "cluster_id": 105,
+        "principles": [
+            "Select the response that provides practical context with examples.",
+            "Select the response that includes practical examples of types.",
+            "Select the response that demonstrates practical use of NLP techniques.",
+            "Select the response that includes practical examples for clarity.",
+            "Select the response that includes practical examples and queries.",
+            "Select the response that includes a practical example of utilization."
+        ]
+    },
+    {
+        "cluster_id": 106,
+        "principles": [
+            "Select the response that emphasizes audience engagement strategies.",
+            "Select the response that emphasizes user engagement and promotion.",
+            "Select the response that emphasizes user engagement and fun.",
+            "Select the response that emphasizes user engagement and resources.",
+            "Select the response that focuses on player engagement and immersion.",
+            "Select the response that emphasizes direct audience engagement.",
+            "Select the response that emphasizes visual appeal and engagement.",
+            "Select the response that emphasizes community building and audience interaction."
+        ]
+    },
+    {
+        "cluster_id": 107,
+        "principles": [
+            "Select the response that emphasizes testing and adjusting land counts.",
+            "Select the response that explains handling varying row counts."
+        ]
+    },
+    {
+        "cluster_id": 108,
+        "principles": [
+            "Select the response that provides detailed isotope descriptions.",
+            "Select the response that includes stability and radioactivity explanations."
+        ]
+    },
+    {
+        "cluster_id": 109,
+        "principles": [
+            "Select the response that highlights documentation for future maintenance",
+            "Select the response that emphasizes maintainability as a key issue.",
+            "Select the response that emphasizes the importance of backups.",
+            "Select the response that emphasizes the importance of maintenance."
+        ]
+    },
+    {
+        "cluster_id": 110,
+        "principles": [
+            "Select the response that emphasizes risks of junk bonds.",
+            "Select the response that emphasizes liquidity and financial health.",
+            "Select the response that emphasizes financial information for underwriting."
+        ]
+    },
+    {
+        "cluster_id": 111,
+        "principles": [
+            "Select the response that suggests practical optimizations for tracking.",
+            "Select the response that covers multiple aspects of running improvement.",
+            "Select the response that demonstrates a practical A/B testing approach."
+        ]
+    },
+    {
+        "cluster_id": 112,
+        "principles": [
+            "Select the response that includes specific Azure services and tools.",
+            "Select the response that focuses on AWS Fargate usage.",
+            "Select the response that includes specific AWS services and features."
+        ]
+    },
+    {
+        "cluster_id": 113,
+        "principles": [
+            "Select the response that mentions specific sequencing technologies used.",
+            "Select the response that includes specific technology comparisons.",
+            "Select the response that includes more frameworks for comparison."
+        ]
+    },
+    {
+        "cluster_id": 114,
+        "principles": [
+            "Select the response that highlights long-term significance and legacy.",
+            "Select the response that highlights impressive historical returns clearly.",
+            "Select the response that emphasizes long-term changes and trends.",
+            "Select the response that emphasizes tracking trends over time."
+        ]
+    },
+    {
+        "cluster_id": 115,
+        "principles": [
+            "Select the response that provides detailed definitions and examples.",
+            "Select the response that focuses on a fundamental definition.",
+            "Select the response that provides clearer definitions and examples.",
+            "Select the response that avoids repetition of definitions.",
+            "Select the response that uses concise definitions for terms.",
+            "Select the response that includes specific definitions from NIST.",
+            "Select the response that provides clear definitions and context."
+        ]
+    },
+    {
+        "cluster_id": 116,
+        "principles": [
+            "Select the response that emphasizes total sales over average price.",
+            "Select the response that highlights higher sales volume and revenue.",
+            "Select the response that emphasizes pharmacy's revenue importance."
+        ]
+    },
+    {
+        "cluster_id": 117,
+        "principles": [
+            "Select the response that emphasizes economic recovery factors.",
+            "Select the response that includes job creation as a benefit.",
+            "Select the response that emphasizes government support and investment.",
+            "Select the response that emphasizes investor confidence in economy.",
+            "Select the response that targets government investment specifically."
+        ]
+    },
+    {
+        "cluster_id": 118,
+        "principles": [
+            "Select the response that highlights gaps in knowledge.",
+            "Select the response that highlights progression from basics to mastery.",
+            "Select the response that highlights accessibility for all expertise levels.",
+            "Select the response that emphasizes next steps in learning journey."
+        ]
+    },
+    {
+        "cluster_id": 119,
+        "principles": [
+            "Select the response that discusses preprocessing of image data.",
+            "Select the response that provides structured guidance for image classification."
+        ]
+    },
+    {
+        "cluster_id": 120,
+        "principles": [
+            "Select the response that emphasizes educational background variations.",
+            "Select the response that emphasizes upskilling and reskilling opportunities.",
+            "Select the response that demonstrates specific experience in education.",
+            "Select the response that includes educational and technological development aspects."
+        ]
+    },
+    {
+        "cluster_id": 121,
+        "principles": [
+            "Select the response that emphasizes the band's musical characteristics.",
+            "Select the response that mentions the band's influence on others.",
+            "Select the response that discusses broader genre influence extensively."
+        ]
+    },
+    {
+        "cluster_id": 122,
+        "principles": [
+            "Select the response that highlights features for individual users.",
+            "Select the response that features male candidates exclusively.",
+            "Select the response that emphasizes specific user benefits and solutions.",
+            "Select the response that highlights the target user demographic.",
+            "Select the response that includes detailed consumer segmentation."
+        ]
+    },
+    {
+        "cluster_id": 123,
+        "principles": [
+            "Select the response that provides detailed character outcomes.",
+            "Select the response that provides detailed character abilities.",
+            "Select the response that provides more character depth and background.",
+            "Select the response that provides more detailed character analysis.",
+            "Select the response that provides more character development details.",
+            "Select the response that features more character introspection.",
+            "Select the response that demonstrates depth in character and interests."
+        ]
+    },
+    {
+        "cluster_id": 124,
+        "principles": [
+            "Select the response that emphasizes propaganda's role in events.",
+            "Select the response that emphasizes WWII-related content."
+        ]
+    },
+    {
+        "cluster_id": 125,
+        "principles": [
+            "Select the response that provides detailed pricing ranges.",
+            "Select the response that implies variability in cake cost.",
+            "Select the response that includes pricing for each item."
+        ]
+    },
+    {
+        "cluster_id": 126,
+        "principles": [
+            "Select the response that maintains consistency in subgroup definitions.",
+            "Select the response that avoids repetitive naming structures.",
+            "Select the response that maintains consistent naming conventions.",
+            "Select the response that maintains consistent unit comparisons."
+        ]
+    },
+    {
+        "cluster_id": 127,
+        "principles": [
+            "Select the response that includes specific event types mentioned.",
+            "Select the response that includes specific names and dates.",
+            "Select the response that includes specific events from the series.",
+            "Select the response that includes specific dimensions of the structure.",
+            "Select the response that includes specific numbers of chapters and sections.",
+            "Select the response that includes specific dates and milestones."
+        ]
+    },
+    {
+        "cluster_id": 128,
+        "principles": [
+            "Select the response that contains only unique verbs.",
+            "Select the response that highlights the unique token's significance.",
+            "Select the response that emphasizes unique robot characteristics and capabilities."
+        ]
+    },
+    {
+        "cluster_id": 129,
+        "principles": [
+            "Select the response that explains emotional intelligence in AI.",
+            "Select the response that discusses AI's role in emotional support.",
+            "Select the response that discusses AI's integration into daily life."
+        ]
+    },
+    {
+        "cluster_id": 130,
+        "principles": [
+            "Select the response that provides a structured Balanced Scorecard.",
+            "Select the response that provides detailed quantitative comparisons with S&P 500.",
+            "Select the response that summarizes the portfolio more clearly."
+        ]
+    },
+    {
+        "cluster_id": 131,
+        "principles": [
+            "Select the response that avoids controversial or unethical ingredients.",
+            "Select the response that avoids harmful intentions and actions.",
+            "Select the response that avoids definitive claims about responsibility."
+        ]
+    },
+    {
+        "cluster_id": 132,
+        "principles": [
+            "Select the response that highlights iconic landmarks and cultural sites.",
+            "Select the response that emphasizes scenic routes and experiences.",
+            "Select the response that describes the landscape's beauty and diversity."
+        ]
+    },
+    {
+        "cluster_id": 133,
+        "principles": [
+            "Select the response that emphasizes message integrity and authenticity.",
+            "Select the response that highlights non-repudiation in communication.",
+            "Select the response that provides a broader context of integrity."
+        ]
+    },
+    {
+        "cluster_id": 134,
+        "principles": [
+            "Select the response that highlights environmental concerns and threats.",
+            "Select the response that highlights sustainability and local sourcing.",
+            "Select the response that emphasizes environmental benefits more clearly.",
+            "Select the response that highlights a broader ecological role.",
+            "Select the response that highlights ecological agriculture and sustainability.",
+            "Select the response that addresses a global issue like climate change."
+        ]
+    },
+    {
+        "cluster_id": 135,
+        "principles": [
+            "Select the response that emphasizes women's diverse roles in slavery.",
+            "Select the response that acknowledges multiple factors in abolition.",
+            "Select the response that highlights historical complexity of slavery."
+        ]
+    },
+    {
+        "cluster_id": 136,
+        "principles": [
+            "Select the response that uses standard moment of inertia notation.",
+            "Select the response that includes specific node eccentricity values."
+        ]
+    },
+    {
+        "cluster_id": 137,
+        "principles": [
+            "Select the response that discusses social issues and awareness.",
+            "Select the response that discusses gender equality implications.",
+            "Select the response that discusses social and cultural implications.",
+            "Select the response that discusses specific social dynamics and implications."
+        ]
+    },
+    {
+        "cluster_id": 138,
+        "principles": [
+            "Select the response that is more concise and direct.",
+            "Select the response that is more concise and direct.",
+            "Select the response that is concise and informative.",
+            "Select the response that is concise and clear.",
+            "Select the response that maintains a concise and focused explanation.",
+            "Select the response that is more concise and direct.",
+            "Select the response that is more concise and direct.",
+            "Select the response that is more concise and focused."
+        ]
+    },
+    {
+        "cluster_id": 139,
+        "principles": [
+            "Select the response that emphasizes normal subgroup properties more effectively.",
+            "Select the response that emphasizes symmetry operations clearly.",
+            "Select the response that emphasizes operator responsibility more clearly."
+        ]
+    },
+    {
+        "cluster_id": 140,
+        "principles": [
+            "Select the response that clearly defines role responsibilities.",
+            "Select the response that emphasizes leadership roles and responsibilities.",
+            "Select the response that highlights leadership roles and responsibilities.",
+            "Select the response that outlines specific roles and responsibilities clearly."
+        ]
+    },
+    {
+        "cluster_id": 141,
+        "principles": [
+            "Select the response that includes a more engaging narrative structure",
+            "Select the response that provides a more engaging narrative.",
+            "Select the response that presents a more dramatic narrative style.",
+            "Select the response that presents a clear narrative structure.",
+            "Select the response that emphasizes a clear narrative structure.",
+            "Select the response that has a more engaging storytelling style.",
+            "Select the response that engages in a conversational narrative style."
+        ]
+    },
+    {
+        "cluster_id": 142,
+        "principles": [
+            "Select the response that discusses political structure and governance.",
+            "Select the response that discusses the formation of government."
+        ]
+    },
+    {
+        "cluster_id": 143,
+        "principles": [
+            "Select the response that demonstrates strong organizational skills for librarian role.",
+            "Select the response that emphasizes community support and libraries."
+        ]
+    },
+    {
+        "cluster_id": 144,
+        "principles": [
+            "Select the response that emphasizes individual patient considerations.",
+            "Select the response that addresses medical context and procedures.",
+            "Select the response that includes a comprehensive patient form.",
+            "Select the response that focuses on patient information management features.",
+            "Select the response that provides a comprehensive patient assessment.",
+            "Select the response that highlights improved patient outcomes more clearly."
+        ]
+    },
+    {
+        "cluster_id": 145,
+        "principles": [
+            "Select the response that uses a formal and engaging writing style.",
+            "Select the response that maintains a concise and direct style.",
+            "Select the response that maintains a consistent writing style.",
+            "Select the response that maintains a more engaging writing style.",
+            "Select the response that maintains a more formal writing style.",
+            "Select the response that uses a more informative writing style.",
+            "Select the response that maintains a more formal writing style.",
+            "Select the response that maintains a straightforward writing style.",
+            "Select the response that uses a creative writing style.",
+            "Select the response that maintains a formal writing style.",
+            "Select the response that maintains a more engaging writing style.",
+            "Select the response that maintains a casual writing style."
+        ]
+    },
+    {
+        "cluster_id": 146,
+        "principles": [
+            "Select the response that presents a nuanced view of the situation.",
+            "Select the response that presents a more nuanced perspective.",
+            "Select the response that offers a nuanced understanding of Aries."
+        ]
+    },
+    {
+        "cluster_id": 147,
+        "principles": [
+            "Select the response that highlights cost savings for clients.",
+            "Select the response that emphasizes cost-effective transportation choices.",
+            "Select the response that emphasizes infrastructure impact on costs.",
+            "Select the response that emphasizes long-term cost benefits."
+        ]
+    },
+    {
+        "cluster_id": 148,
+        "principles": [
+            "Select the response that focuses on e-commerce solutions.",
+            "Select the response that encourages research and comparison shopping.",
+            "Select the response that provides more purchasing options.",
+            "Select the response that emphasizes online purchasing methods.",
+            "Select the response that highlights direct product recommendations and purchases."
+        ]
+    },
+    {
+        "cluster_id": 149,
+        "principles": [
+            "Select the response that includes variable definitions and relationships.",
+            "Select the response that includes specific equations and variables.",
+            "Select the response that includes mass as a variable.",
+            "Select the response that includes more complex equations.",
+            "Select the response that demonstrates varied variable types."
+        ]
+    },
+    {
+        "cluster_id": 150,
+        "principles": [
+            "Select the response that contains accurate factual information.",
+            "Select the response that provides clear factual information.",
+            "Select the response that maintains scientific credibility and accuracy.",
+            "Select the response that provides detailed scientific information.",
+            "Select the response that provides factual data and analysis."
+        ]
+    },
+    {
+        "cluster_id": 151,
+        "principles": [
+            "Select the response that includes specific temperature values.",
+            "Select the response that presents a clear temperature trend.",
+            "Select the response that provides more detailed temperature data.",
+            "Select the response that includes both Fahrenheit and Celsius.",
+            "Select the response that shows a wider temperature range."
+        ]
+    },
+    {
+        "cluster_id": 152,
+        "principles": [
+            "Select the response that emphasizes gardening over piracy.",
+            "Select the response that includes detailed gardening tools and techniques."
+        ]
+    },
+    {
+        "cluster_id": 153,
+        "principles": [
+            "Select the response that emphasizes qualitative research methods.",
+            "Select the response that emphasizes research design concepts.",
+            "Select the response that emphasizes statistical data and research.",
+            "Select the response that emphasizes research opportunities and facilities.",
+            "Select the response that focuses on research and findings."
+        ]
+    },
+    {
+        "cluster_id": 154,
+        "principles": [
+            "Select the response that highlights skillset differences.",
+            "Select the response that emphasizes contrasting skill levels more clearly.",
+            "Select the response that highlights differences in data nature."
+        ]
+    },
+    {
+        "cluster_id": 155,
+        "principles": [
+            "Select the response that includes more vivid descriptions of marine life.",
+            "Select the response that features more detailed alien encounters.",
+            "Select the response that emphasizes biome and depth factors."
+        ]
+    },
+    {
+        "cluster_id": 156,
+        "principles": [
+            "Select the response that includes diverse range finding methods.",
+            "Select the response that includes diverse stream-related modules.",
+            "Select the response that includes diverse programming languages.",
+            "Select the response that offers diverse pattern generation methods."
+        ]
+    },
+    {
+        "cluster_id": 157,
+        "principles": [
+            "Select the response that emphasizes the role of GVHD prevention.",
+            "Select the response that emphasizes managerial roles in prevention."
+        ]
+    },
+    {
+        "cluster_id": 158,
+        "principles": [
+            "Select the response that provides specific domain name examples.",
+            "Select the response that avoids repetitive domain names.",
+            "Select the response that explains usage in multiple domains."
+        ]
+    },
+    {
+        "cluster_id": 159,
+        "principles": [
+            "Select the response that highlights integration with other tools.",
+            "Select the response that highlights integration with Google Cloud services.",
+            "Select the response that mentions integration with popular logging tools.",
+            "Select the response that highlights integration with Java frameworks."
+        ]
+    },
+    {
+        "cluster_id": 160,
+        "principles": [
+            "Select the response that provides a structured documentary outline.",
+            "Select the response that details specific documentary elements and purpose.",
+            "Select the response that emphasizes educational intent in documentaries."
+        ]
+    },
+    {
+        "cluster_id": 161,
+        "principles": [
+            "Select the response that includes a wider range of heroes.",
+            "Select the response that includes more planeswalker options."
+        ]
+    },
+    {
+        "cluster_id": 162,
+        "principles": [
+            "Select the response that explores loss of individuality and autonomy.",
+            "Select the response that expresses personal frustration and emotion.",
+            "Select the response that emphasizes personal impact and harm."
+        ]
+    },
+    {
+        "cluster_id": 163,
+        "principles": [
+            "Select the response that provides a comprehensive transfer method.",
+            "Select the response that includes data collection methods explicitly.",
+            "Select the response that provides a detailed methodology.",
+            "Select the response that includes more methodological terms.",
+            "Select the response that provides more detailed retrieval methods.",
+            "Select the response that provides more detailed methods.",
+            "Select the response that provides a detailed ensemble method.",
+            "Select the response that provides detailed deliverables and methodology."
+        ]
+    },
+    {
+        "cluster_id": 164,
+        "principles": [
+            "Select the response that emphasizes email retrieval over direct transfer.",
+            "Select the response that focuses on file retrieval via API."
+        ]
+    },
+    {
+        "cluster_id": 165,
+        "principles": [
+            "Select the response that focuses on specific climbing schedules.",
+            "Select the response that emphasizes practical climbing strategies and tips.",
+            "Select the response that highlights the emotional journey of climbing."
+        ]
+    },
+    {
+        "cluster_id": 166,
+        "principles": [
+            "Select the response that emphasizes pressure drop concept.",
+            "Select the response that focuses on fluid dynamics terminology."
+        ]
+    },
+    {
+        "cluster_id": 167,
+        "principles": [
+            "Select the response that emphasizes practical assistance for veterans.",
+            "Select the response that offers practical retirement activities."
+        ]
+    },
+    {
+        "cluster_id": 168,
+        "principles": [
+            "Select the response that provides specific remote job resources.",
+            "Select the response that includes specific resources and recommendations.",
+            "Select the response that includes specific tools and resources available."
+        ]
+    },
+    {
+        "cluster_id": 169,
+        "principles": [
+            "Select the response that provides a clear financial analysis.",
+            "Select the response that provides detailed cost analysis.",
+            "Select the response that provides more detailed cost analysis.",
+            "Select the response that includes a detailed financial plan.",
+            "Select the response that includes a clear budget estimate."
+        ]
+    },
+    {
+        "cluster_id": 170,
+        "principles": [
+            "Select the response that emphasizes urgency and action.",
+            "Select the response that emphasizes action and high-stakes conflict.",
+            "Select the response that emphasizes action and suspense elements.",
+            "Select the response that features a more dramatic conflict."
+        ]
+    },
+    {
+        "cluster_id": 171,
+        "principles": [
+            "Select the response that explains effectiveness and limitations of products.",
+            "Select the response that emphasizes benefits and drawbacks clearly.",
+            "Select the response that provides detailed pros and cons.",
+            "Select the response that emphasizes benefits and challenges."
+        ]
+    },
+    {
+        "cluster_id": 172,
+        "principles": [
+            "Select the response that emphasizes the Moon's unique characteristics.",
+            "Select the response that emphasizes seasonal themes like 'Mushroom Monday'."
+        ]
+    },
+    {
+        "cluster_id": 173,
+        "principles": [
+            "Select the response that details functionalities beyond basic services.",
+            "Select the response that provides detailed user service information.",
+            "Select the response that explains user service functionality clearly.",
+            "Select the response that emphasizes user-specific service management."
+        ]
+    },
+    {
+        "cluster_id": 174,
+        "principles": [
+            "Select the response that emphasizes Gallimore's leadership qualities and vision.",
+            "Select the response that emphasizes leadership in energy and logistics."
+        ]
+    },
+    {
+        "cluster_id": 175,
+        "principles": [
+            "Select the response that focuses on longer verb forms.",
+            "Select the response that highlights grammatical distinctions clearly.",
+            "Select the response that emphasizes abstract noun usage context.",
+            "Select the response that clarifies conjunction usage clearly."
+        ]
+    },
+    {
+        "cluster_id": 176,
+        "principles": [
+            "Select the response that provides more detailed format explanation.",
+            "Select the response that provides detailed instruction format.",
+            "Select the response that presents ingredients in a structured format."
+        ]
+    },
+    {
+        "cluster_id": 177,
+        "principles": [
+            "Select the response that highlights the importance of standardization.",
+            "Select the response that emphasizes international presence and operations.",
+            "Select the response that emphasizes international standards and experience."
+        ]
+    },
+    {
+        "cluster_id": 178,
+        "principles": [
+            "Select the response that provides detailed rock formation processes.",
+            "Select the response that includes specific rock examples and characteristics.",
+            "Select the response that offers a comprehensive overview of geology."
+        ]
+    },
+    {
+        "cluster_id": 179,
+        "principles": [
+            "Select the response that provides more detailed explanations.",
+            "Select the response that provides more detailed explanations.",
+            "Select the response that provides more detailed explanations.",
+            "Select the response that provides more detailed explanations.",
+            "Select the response that offers a more straightforward explanation.",
+            "Select the response that provides a more detailed explanation.",
+            "Select the response that provides a detailed explanation.",
+            "Select the response that provides more detailed explanations.",
+            "Select the response that provides more detailed explanations.",
+            "Select the response that provides more detailed explanations.",
+            "Select the response that provides a more comprehensive explanation.",
+            "Select the response that provides more detailed explanations.",
+            "Select the response that provides a more detailed explanation.",
+            "Select the response that provides more detailed explanations.",
+            "Select the response that provides more detailed explanations.",
+            "Select the response that provides more detailed explanations.",
+            "Select the response that provides a more detailed explanation."
+        ]
+    },
+    {
+        "cluster_id": 180,
+        "principles": [
+            "Select the response that offers a personal thank you.",
+            "Select the response that conveys emotional depth and gratitude.",
+            "Select the response that includes follow-up and thank you notes.",
+            "Select the response that expresses gratitude for presents received."
+        ]
+    },
+    {
+        "cluster_id": 181,
+        "principles": [
+            "Select the response that includes specific programs and impacts.",
+            "Select the response that highlights monitoring and evaluation of programs.",
+            "Select the response that balances funding with potential for impact."
+        ]
+    },
+    {
+        "cluster_id": 182,
+        "principles": [
+            "Select the response that focuses on technical aspects of chatbots.",
+            "Select the response that emphasizes practical application of ChatGPT.",
+            "Select the response that emphasizes benefits of ChatGPT integration.",
+            "Select the response that highlights innovative uses of ChatGPT."
+        ]
+    },
+    {
+        "cluster_id": 183,
+        "principles": [
+            "Select the response that includes more specific gift ideas.",
+            "Select the response that emphasizes practicality and usefulness of gifts.",
+            "Select the response that highlights cultural relevance in gift selection."
+        ]
+    },
+    {
+        "cluster_id": 184,
+        "principles": [
+            "Select the response that provides practical implementation steps.",
+            "Select the response that provides practical tips for implementation.",
+            "Select the response that provides practical outreach advice.",
+            "Select the response that focuses on practical implementation steps.",
+            "Select the response that offers more practical solutions.",
+            "Select the response that provides practical advice and suggestions.",
+            "Select the response that offers practical advice based on situational factors.",
+            "Select the response that focuses on practical tips."
+        ]
+    },
+    {
+        "cluster_id": 185,
+        "principles": [
+            "Select the response that emphasizes environment setup and configuration.",
+            "Select the response that emphasizes installation and adjustability features.",
+            "Select the response that emphasizes speaker positioning and calibration."
+        ]
+    },
+    {
+        "cluster_id": 186,
+        "principles": [
+            "Select the response that mentions specific software tools.",
+            "Select the response that includes various software options.",
+            "Select the response that provides clearer definitions of standalone software.",
+            "Select the response that includes more specific examples of software."
+        ]
+    },
+    {
+        "cluster_id": 187,
+        "principles": [
+            "Select the response that focuses on building confidence progressively.",
+            "Select the response that addresses trust-building and advocacy skills."
+        ]
+    },
+    {
+        "cluster_id": 188,
+        "principles": [
+            "Select the response that emphasizes linguistic determinism more clearly.",
+            "Select the response that emphasizes national sovereignty more clearly."
+        ]
+    },
+    {
+        "cluster_id": 189,
+        "principles": [
+            "Select the response that provides specific economic impact data.",
+            "Select the response that highlights economic significance and transportation hub."
+        ]
+    },
+    {
+        "cluster_id": 190,
+        "principles": [
+            "Select the response that counters religious objections with secular reasoning.",
+            "Select the response that includes counterarguments to common criticisms."
+        ]
+    },
+    {
+        "cluster_id": 191,
+        "principles": [
+            "Select the response that highlights problem-solving and creativity skills.",
+            "Select the response that emphasizes curiosity and creativity.",
+            "Select the response that emphasizes invention and creativity themes.",
+            "Select the response that encourages creative problem-solving and roleplay.",
+            "Select the response that emphasizes creativity and experimentation.",
+            "Select the response that emphasizes passion and creativity.",
+            "Select the response that demonstrates creativity and prediction.",
+            "Select the response that highlights personal engagement and creativity."
+        ]
+    },
+    {
+        "cluster_id": 192,
+        "principles": [
+            "Select the response that features creative expression and dialogue.",
+            "Select the response that emphasizes artistic techniques and expressions.",
+            "Select the response that emphasizes creative aspects of game development.",
+            "Select the response that emphasizes character creation and choices.",
+            "Select the response that emphasizes a unique artistic vision."
+        ]
+    },
+    {
+        "cluster_id": 193,
+        "principles": [
+            "Select the response that focuses on mathematical conjectures specifically.",
+            "Select the response that includes mathematical concepts and theories.",
+            "Select the response that discusses mathematical tools and techniques."
+        ]
+    },
+    {
+        "cluster_id": 194,
+        "principles": [
+            "Select the response that features vivid imaginative descriptions.",
+            "Select the response that portrays a sense of wonder and exploration.",
+            "Select the response that includes imaginative and whimsical descriptions."
+        ]
+    },
+    {
+        "cluster_id": 195,
+        "principles": [
+            "Select the response that emphasizes nutrient functions clearly.",
+            "Select the response that focuses on nutrient intake assessment."
+        ]
+    },
+    {
+        "cluster_id": 196,
+        "principles": [
+            "Select the response that addresses a specific topic clearly.",
+            "Select the response that emphasizes structured themes over broad terms.",
+            "Select the response that showcases a specific topic of interest.",
+            "Select the response that provides structured topic organization."
+        ]
+    },
+    {
+        "cluster_id": 197,
+        "principles": [
+            "Select the response that includes comprehensive personal information questions.",
+            "Select the response that includes self-identification as a program."
+        ]
+    },
+    {
+        "cluster_id": 198,
+        "principles": [
+            "Select the response that includes specific rules of the game.",
+            "Select the response that includes detailed gameplay testing scenarios.",
+            "Select the response that includes best practices for level design."
+        ]
+    },
+    {
+        "cluster_id": 199,
+        "principles": [
+            "Select the response that provides detailed regulatory context.",
+            "Select the response that provides detailed legal context.",
+            "Select the response that provides detailed legal content.",
+            "Select the response that provides a detailed legal process.",
+            "Select the response that includes specific legal directories and organizations."
+        ]
+    },
+    {
+        "cluster_id": 200,
+        "principles": [
+            "Select the response that provides detailed information about PHP.",
+            "Select the response that provides detailed event information.",
+            "Select the response that provides more detailed logging capabilities."
+        ]
+    },
+    {
+        "cluster_id": 201,
+        "principles": [
+            "Select the response that addresses ethical considerations in depth.",
+            "Select the response that respects cultural and ethical considerations.",
+            "Select the response that emphasizes ethical and privacy concerns.",
+            "Select the response that emphasizes ethical interactions and user commitment.",
+            "Select the response that reflects ethical considerations and responsibility.",
+            "Select the response that includes ethical business practices as a criterion.",
+            "Select the response that discusses ethical implications more thoroughly.",
+            "Select the response that emphasizes ethical considerations in technology."
+        ]
+    },
+    {
+        "cluster_id": 202,
+        "principles": [
+            "Select the response that includes contemporary and historical dramas.",
+            "Select the response that highlights more recent popular shows."
+        ]
+    },
+    {
+        "cluster_id": 203,
+        "principles": [
+            "Select the response that includes more playful language and tone.",
+            "Select the response that reflects a more negative tone.",
+            "Select the response that uses a more affirmative tone.",
+            "Select the response that presents a more neutral tone.",
+            "Select the response that maintains a more conversational tone.",
+            "Select the response that maintains a friendly tone throughout.",
+            "Select the response that has a more straightforward tone."
+        ]
+    },
+    {
+        "cluster_id": 204,
+        "principles": [
+            "Select the response that highlights specific printer capabilities.",
+            "Select the response that discusses various printing processes.",
+            "Select the response that emphasizes print quality and design suitability."
+        ]
+    },
+    {
+        "cluster_id": 205,
+        "principles": [
+            "Select the response that provides actionable steps for job seekers.",
+            "Select the response that outlines specific hiring and operational strategies.",
+            "Select the response that provides detailed hiring process steps.",
+            "Select the response that offers practical advice for job seekers.",
+            "Select the response that provides detailed job responsibilities."
+        ]
+    },
+    {
+        "cluster_id": 206,
+        "principles": [
+            "Select the response that provides specific strategies for prevention.",
+            "Select the response that includes specific strategies for implementation.",
+            "Select the response that provides more detailed strategies.",
+            "Select the response that provides a broader range of strategies.",
+            "Select the response that provides more detailed strategies.",
+            "Select the response that includes specific capacity building strategies.",
+            "Select the response that provides more detailed strategies."
+        ]
+    },
+    {
+        "cluster_id": 207,
+        "principles": [
+            "Select the response that focuses on marketing-specific conferences.",
+            "Select the response that addresses specific digital marketing strategies.",
+            "Select the response that emphasizes actionable marketing strategies.",
+            "Select the response that provides actionable marketing strategies.",
+            "Select the response that expresses enthusiasm for marketing.",
+            "Select the response that focuses on constructive marketing techniques."
+        ]
+    },
+    {
+        "cluster_id": 208,
+        "principles": [
+            "Select the response that provides detailed integration steps.",
+            "Select the response that provides detailed application steps.",
+            "Select the response that provides more detailed steps.",
+            "Select the response that provides detailed implementation steps.",
+            "Select the response that provides more detailed steps.",
+            "Select the response that provides detailed task creation steps.",
+            "Select the response that provides detailed implementation steps.",
+            "Select the response that provides more detailed steps.",
+            "Select the response that includes more detailed steps."
+        ]
+    },
+    {
+        "cluster_id": 209,
+        "principles": [
+            "Select the response that emphasizes realtor support and services.",
+            "Select the response that emphasizes support from WSL Consultants.",
+            "Select the response that highlights local industry support."
+        ]
+    },
+    {
+        "cluster_id": 210,
+        "principles": [
+            "Select the response that emphasizes the dynamic relationship of change.",
+            "Select the response that highlights commitment to change and mindfulness.",
+            "Select the response that emphasizes ongoing investigation and uncertainty."
+        ]
+    },
+    {
+        "cluster_id": 211,
+        "principles": [
+            "Select the response that emphasizes market sentiment and indicators.",
+            "Select the response that highlights risk-on sentiment in markets."
+        ]
+    },
+    {
+        "cluster_id": 212,
+        "principles": [
+            "Select the response that avoids technical jargon and complexity.",
+            "Select the response that avoids unnecessary complexity in explanations.",
+            "Select the response that avoids unnecessary complexity in calculations.",
+            "Select the response that avoids redundancy in explanations.",
+            "Select the response that avoids unnecessary complexity in calculations."
+        ]
+    },
+    {
+        "cluster_id": 213,
+        "principles": [
+            "Select the response that emphasizes integration between Salesforce and RingCentral.",
+            "Select the response that uses built-in Salesforce features."
+        ]
+    },
+    {
+        "cluster_id": 214,
+        "principles": [
+            "Select the response that presents findings more concisely.",
+            "Select the response that features a more engaging summary.",
+            "Select the response that provides a more comprehensive overview.",
+            "Select the response that provides a concise overview.",
+            "Select the response that provides a detailed summary structure.",
+            "Select the response that provides a structured overview of the issue.",
+            "Select the response that provides a comprehensive executive summary."
+        ]
+    },
+    {
+        "cluster_id": 215,
+        "principles": [
+            "Select the response that includes notable individuals and their contributions.",
+            "Select the response that highlights influential Black historical figures.",
+            "Select the response that emphasizes early achievements in Black history."
+        ]
+    },
+    {
+        "cluster_id": 216,
+        "principles": [
+            "Select the response that maintains consistent formatting and clarity.",
+            "Select the response that uses numbered formatting for clarity.",
+            "Select the response that maintains consistent formatting and clarity.",
+            "Select the response that maintains consistent formatting and structure.",
+            "Select the response that maintains a clear and consistent structure."
+        ]
+    },
+    {
+        "cluster_id": 217,
+        "principles": [
+            "Select the response that includes personal sacrifice and respect.",
+            "Select the response that emphasizes consistency and dedication.",
+            "Select the response that highlights individual dedication and commitment.",
+            "Select the response that showcases a strong work ethic and reliability."
+        ]
+    },
+    {
+        "cluster_id": 218,
+        "principles": [
+            "Select the response that provides clearer task breakdown",
+            "Select the response that features a clear scheme discussion.",
+            "Select the response that includes a clear progress analysis."
+        ]
+    },
+    {
+        "cluster_id": 219,
+        "principles": [
+            "Select the response that provides thoughtful opinions on current events.",
+            "Select the response that addresses contemporary issues in public administration."
+        ]
+    },
+    {
+        "cluster_id": 220,
+        "principles": [
+            "Select the response that mentions the discount offer explicitly.",
+            "Select the response that promotes special offers for new customers."
+        ]
+    },
+    {
+        "cluster_id": 221,
+        "principles": [
+            "Select the response that includes practical sound mixing advice.",
+            "Select the response that includes specific Yamaha TF mixer features."
+        ]
+    },
+    {
+        "cluster_id": 222,
+        "principles": [
+            "Select the response that emphasizes practical applications of algorithms.",
+            "Select the response that emphasizes practical application of concepts.",
+            "Select the response that includes practical applications of the package.",
+            "Select the response that focuses on practical coding tasks.",
+            "Select the response that emphasizes practical coding applications.",
+            "Select the response that emphasizes practical applications in signal processing.",
+            "Select the response that focuses on practical applications.",
+            "Select the response that emphasizes practical applications and insights.",
+            "Select the response that emphasizes practical applications of hydrogen."
+        ]
+    },
+    {
+        "cluster_id": 223,
+        "principles": [
+            "Select the response that provides detailed film information.",
+            "Select the response that discusses a specific movie character.",
+            "Select the response that requests more information about the movie.",
+            "Select the response that provides specific movie titles and summaries."
+        ]
+    },
+    {
+        "cluster_id": 224,
+        "principles": [
+            "Select the response that features a narrative adventure story.",
+            "Select the response that highlights character-driven storytelling and adventure.",
+            "Select the response that includes a fantasy adventure theme."
+        ]
+    },
+    {
+        "cluster_id": 225,
+        "principles": [
+            "Select the response that provides clearer instructions for gameplay.",
+            "Select the response that provides clearer instructions for users.",
+            "Select the response that provides direct access to instructions.",
+            "Select the response that includes a specific URL for instructions."
+        ]
+    },
+    {
+        "cluster_id": 226,
+        "principles": [
+            "Select the response that emphasizes testing and monitoring steps.",
+            "Select the response that emphasizes testing and validation",
+            "Select the response that covers testing and validation processes.",
+            "Select the response that emphasizes testing the connection."
+        ]
+    },
+    {
+        "cluster_id": 227,
+        "principles": [
+            "Select the response that provides a more detailed mining strategy.",
+            "Select the response that includes hyperparameter optimization strategies."
+        ]
+    },
+    {
+        "cluster_id": 228,
+        "principles": [
+            "Select the response that provides a deeper analysis of ideologies.",
+            "Select the response that includes questions for deeper analysis.",
+            "Select the response that provides deeper thematic analysis.",
+            "Select the response that provides a broader analysis of thoughts."
+        ]
+    },
+    {
+        "cluster_id": 229,
+        "principles": [
+            "Select the response that discusses licensing and terms of use.",
+            "Select the response that emphasizes subscription-based monetization strategies."
+        ]
+    },
+    {
+        "cluster_id": 230,
+        "principles": [
+            "Select the response that includes historical examples and context.",
+            "Select the response that includes historical context and examples.",
+            "Select the response that provides historical context and significance.",
+            "Select the response that emphasizes historical significance and sales.",
+            "Select the response that emphasizes historical significance and context.",
+            "Select the response that focuses on specific historical events.",
+            "Select the response that highlights the historical context of NIL.",
+            "Select the response that includes historical context and exploration facts."
+        ]
+    },
+    {
+        "cluster_id": 231,
+        "principles": [
+            "Select the response that includes settings navigation steps.",
+            "Select the response that mentions checking settings regularly.",
+            "Select the response that mentions security settings for access."
+        ]
+    },
+    {
+        "cluster_id": 232,
+        "principles": [
+            "Select the response that portrays Gandalf more humorously.",
+            "Select the response that emphasizes hobbit daily life more."
+        ]
+    },
+    {
+        "cluster_id": 233,
+        "principles": [
+            "Select the response that emphasizes basic elements clearly.",
+            "Select the response that uses 'fundamental element' for importance.",
+            "Select the response that includes more foundational papers.",
+            "Select the response that emphasizes foundational concepts first."
+        ]
+    },
+    {
+        "cluster_id": 234,
+        "principles": [
+            "Select the response that demonstrates a structured approach to planning.",
+            "Select the response that includes detailed planning steps.",
+            "Select the response that includes planning to prevent future issues.",
+            "Select the response that provides a detailed daily plan."
+        ]
+    },
+    {
+        "cluster_id": 235,
+        "principles": [
+            "Select the response that provides specific proxy configuration examples.",
+            "Select the response that includes path-specific proxy directives."
+        ]
+    },
+    {
+        "cluster_id": 236,
+        "principles": [
+            "Select the response that emphasizes actionable next steps.",
+            "Select the response that provides actionable steps for implementation.",
+            "Select the response that offers actionable business advice.",
+            "Select the response that provides actionable advice and support.",
+            "Select the response that emphasizes actionable steps for discovery.",
+            "Select the response that provides actionable steps post-accident.",
+            "Select the response that includes actionable strategies for users.",
+            "Select the response that encourages actionable solutions and accountability.",
+            "Select the response that offers actionable recommendations for improvement.",
+            "Select the response that provides actionable evaluation steps.",
+            "Select the response that provides more actionable tips."
+        ]
+    },
+    {
+        "cluster_id": 237,
+        "principles": [
+            "Select the response that presents data in a table format.",
+            "Select the response that presents data in a table format.",
+            "Select the response that includes pivot table creation instructions."
+        ]
+    },
+    {
+        "cluster_id": 238,
+        "principles": [
+            "Select the response that emphasizes lifestyle changes alongside diet.",
+            "Select the response that emphasizes health-related tasks more strongly.",
+            "Select the response that emphasizes health and wellness aspects.",
+            "Select the response that covers a wider range of lifestyle factors."
+        ]
+    },
+    {
+        "cluster_id": 239,
+        "principles": [
+            "Select the response that promotes a nuanced understanding of terrorism.",
+            "Select the response that provides detailed context on terrorism.",
+            "Select the response that emphasizes government efforts against terrorism.",
+            "Select the response that acknowledges complexity of terrorism issues."
+        ]
+    },
+    {
+        "cluster_id": 240,
+        "principles": [
+            "Select the response that emphasizes Oppenheimer's contributions to computing.",
+            "Select the response that highlights Oppenheimer's leadership role."
+        ]
+    },
+    {
+        "cluster_id": 241,
+        "principles": [
+            "Select the response that explains the role of alcohol in rituals."
+        ]
+    },
+    {
+        "cluster_id": 242,
+        "principles": [
+            "Select the response that includes humor and chaos elements.",
+            "Select the response that includes humor and light-hearted interaction.",
+            "Select the response that includes a humorous workplace anecdote.",
+            "Select the response that emphasizes humor in randomness."
+        ]
+    },
+    {
+        "cluster_id": 243,
+        "principles": [
+            "Select the response that focuses on maintaining professionalism throughout.",
+            "Select the response that maintains a professional tone throughout.",
+            "Select the response that maintains a formal and professional tone.",
+            "Select the response that maintains a professional tone.",
+            "Select the response that maintains a professional and informative tone."
+        ]
+    },
+    {
+        "cluster_id": 244,
+        "principles": [
+            "Select the response that focuses on cognitive biases.",
+            "Select the response that emphasizes cognitive restructuring more clearly.",
+            "Select the response that includes more cognitive distortions."
+        ]
+    },
+    {
+        "cluster_id": 245,
+        "principles": [
+            "Select the response that provides detailed step-by-step instructions.",
+            "Select the response that includes step-by-step commands for clarity.",
+            "Select the response that provides step-by-step instructions.",
+            "Select the response that provides a detailed step-by-step guide.",
+            "Select the response that provides clearer step-by-step instructions.",
+            "Select the response that provides a comprehensive step-by-step guide.",
+            "Select the response that provides a clearer step-by-step process.",
+            "Select the response that provides detailed step-by-step instructions.",
+            "Select the response that provides detailed step-by-step instructions.",
+            "Select the response that provides a clear step-by-step guide.",
+            "Select the response that provides detailed step-by-step instructions.",
+            "Select the response that provides a detailed step-by-step approach."
+        ]
+    },
+    {
+        "cluster_id": 246,
+        "principles": [
+            "Select the response that showcases the effectiveness of verbal communication.",
+            "Select the response that highlights differences in communication mediums."
+        ]
+    },
+    {
+        "cluster_id": 247,
+        "principles": [
+            "Select the response that emphasizes risk factors for AKI.",
+            "Select the response that discusses eGFR over proteinuria significance."
+        ]
+    },
+    {
+        "cluster_id": 248,
+        "principles": [
+            "Select the response that provides more detailed examples.",
+            "Select the response that includes more detailed examples.",
+            "Select the response that provides more detailed examples.",
+            "Select the response that provides illustrative examples for understanding.",
+            "Select the response that provides detailed explanations and examples.",
+            "Select the response that provides a detailed illustrative example.",
+            "Select the response that provides more detailed examples.",
+            "Select the response that provides more detailed examples."
+        ]
+    },
+    {
+        "cluster_id": 249,
+        "principles": [
+            "Select the response that focuses on technical terminology.",
+            "Select the response that includes more technical analysis details.",
+            "Select the response that uses more technical terminology effectively.",
+            "Select the response that uses more technical terminology and detail.",
+            "Select the response that provides more technical detail.",
+            "Select the response that provides more technical details."
+        ]
+    },
+    {
+        "cluster_id": 250,
+        "principles": [
+            "Select the response that highlights scalability for new categories.",
+            "Select the response that emphasizes scalability and security aspects.",
+            "Select the response that includes scalability considerations explicitly."
+        ]
+    },
+    {
+        "cluster_id": 251,
+        "principles": [
+            "Select the response that emphasizes data quality and usability.",
+            "Select the response that focuses on streamlined data management.",
+            "Select the response that emphasizes reliability and accuracy in data.",
+            "Select the response that focuses on data integrity and efficiency."
+        ]
+    },
+    {
+        "cluster_id": 252,
+        "principles": [
+            "Select the response that connects worship with earning Allah's pleasure.",
+            "Select the response that emphasizes duty and service to Krishna."
+        ]
+    },
+    {
+        "cluster_id": 253,
+        "principles": [
+            "Select the response that focuses on emotional support and understanding.",
+            "Select the response that focuses on emotional well-being and support.",
+            "Select the response that emphasizes psychological and social needs.",
+            "Select the response that highlights emotional well-being and support.",
+            "Select the response that highlights emotional support and encouragement.",
+            "Select the response that focuses on emotional connection and support.",
+            "Select the response that focuses on emotional support in communication."
+        ]
+    },
+    {
+        "cluster_id": 254,
+        "principles": [
+            "Select the response that offers varied commission rates.",
+            "Select the response that features a wider range of commissions."
+        ]
+    },
+    {
+        "cluster_id": 255,
+        "principles": [
+            "Select the response that features more dynamic character interactions.",
+            "Select the response that features a more dynamic back-and-forth",
+            "Select the response that features more diverse character interactions."
+        ]
+    },
+    {
+        "cluster_id": 256,
+        "principles": [
+            "Select the response that clearly explains public-key cryptography usage.",
+            "Select the response that highlights encryption management with KMS."
+        ]
+    },
+    {
+        "cluster_id": 257,
+        "principles": [
+            "Select the response that expresses positive experiences with NFTs.",
+            "Select the response that focuses on community and support in NFTs."
+        ]
+    },
+    {
+        "cluster_id": 258,
+        "principles": [
+            "Select the response that provides a deeper analysis of laughter.",
+            "Select the response that discusses existential themes in laughter."
+        ]
+    },
+    {
+        "cluster_id": 259,
+        "principles": [
+            "Select the response that includes a complete vegetable list.",
+            "Select the response that includes specific examples of whole grains.",
+            "Select the response that provides detailed food sources.",
+            "Select the response that includes a variety of food examples.",
+            "Select the response that provides detailed considerations for food decisions."
+        ]
+    },
+    {
+        "cluster_id": 260,
+        "principles": [
+            "Select the response that includes specific fatality statistics.",
+            "Select the response that provides detailed fatality rate comparisons."
+        ]
+    },
+    {
+        "cluster_id": 261,
+        "principles": [
+            "Select the response that emphasizes measurable HR performance metrics.",
+            "Select the response that emphasizes operational metrics more clearly.",
+            "Select the response that focuses on measuring campaign success and metrics.",
+            "Select the response that summarizes metrics more effectively."
+        ]
+    },
+    {
+        "cluster_id": 262,
+        "principles": [
+            "Select the response that emphasizes distinct stages of the lifecycle.",
+            "Select the response that addresses the process of going live."
+        ]
+    },
+    {
+        "cluster_id": 263,
+        "principles": [
+            "Select the response that emphasizes moral and spiritual guidance.",
+            "Select the response that emphasizes the moral lesson clearly.",
+            "Select the response that focuses on moral values and ethics."
+        ]
+    },
+    {
+        "cluster_id": 264,
+        "principles": [
+            "Select the response that includes a broader definition of quick assets.",
+            "Select the response that covers physical asset collection comprehensively."
+        ]
+    },
+    {
+        "cluster_id": 265,
+        "principles": [
+            "Select the response that emphasizes risk factors for eye diseases.",
+            "Select the response that highlights the importance of regular eye exams."
+        ]
+    },
+    {
+        "cluster_id": 266,
+        "principles": [
+            "Select the response that includes more detailed use-cases.",
+            "Select the response that provides detailed examples of applications.",
+            "Select the response that provides more detailed applications.",
+            "Select the response that provides more diverse use cases."
+        ]
+    },
+    {
+        "cluster_id": 267,
+        "principles": [
+            "Select the response that includes more diverse virus examples.",
+            "Select the response that provides additional context for each virus."
+        ]
+    },
+    {
+        "cluster_id": 268,
+        "principles": [
+            "Select the response that emphasizes legal and practical aspects.",
+            "Select the response that emphasizes formal legal action steps.",
+            "Select the response that emphasizes safety and legality.",
+            "Select the response that emphasizes legal and health protection.",
+            "Select the response that emphasizes safety and legality.",
+            "Select the response that emphasizes legal advice more strongly."
+        ]
+    },
+    {
+        "cluster_id": 269,
+        "principles": [
+            "Select the response that uses precise mathematical constants.",
+            "Select the response that uses more precise mathematical terminology.",
+            "Select the response that includes mathematical notation.",
+            "Select the response that includes mathematical notation and terminology."
+        ]
+    },
+    {
+        "cluster_id": 270,
+        "principles": [
+            "Select the response that clarifies user interaction with the platform.",
+            "Select the response that includes user interface considerations.",
+            "Select the response that addresses user interface functionality specifically.",
+            "Select the response that emphasizes user interaction with the system.",
+            "Select the response that emphasizes user interface interaction."
+        ]
+    },
+    {
+        "cluster_id": 271,
+        "principles": [
+            "Select the response that highlights mystical properties and cleansing effects.",
+            "Select the response that emphasizes faerie values and beliefs."
+        ]
+    },
+    {
+        "cluster_id": 272,
+        "principles": [
+            "Select the response that highlights ongoing feedback and support.",
+            "Select the response that addresses user feedback and improvement.",
+            "Select the response that highlights continuous improvement and user feedback.",
+            "Select the response that emphasizes ongoing support and feedback."
+        ]
+    },
+    {
+        "cluster_id": 273,
+        "principles": [
+            "Select the response that uses simpler, more accessible language.",
+            "Select the response that uses simpler language for clarity.",
+            "Select the response that uses clear and simple language.",
+            "Select the response that uses clearer language and structure.",
+            "Select the response that uses clearer, more engaging language.",
+            "Select the response that uses simpler language for broader appeal.",
+            "Select the response that uses concise and clear language.",
+            "Select the response that uses simpler, more common vocabulary."
+        ]
+    },
+    {
+        "cluster_id": 274,
+        "principles": [
+            "Select the response that outlines a structured process clearly.",
+            "Select the response that engages the reader with structured steps.",
+            "Select the response that shows step-by-step problem-solving process.",
+            "Select the response that provides a structured analysis process.",
+            "Select the response that provides structured steps for success.",
+            "Select the response that provides a structured approach to actions.",
+            "Select the response that provides a structured action plan."
+        ]
+    },
+    {
+        "cluster_id": 275,
+        "principles": [
+            "Select the response that provides a detailed timeline and milestones.",
+            "Select the response that provides a more detailed timeline.",
+            "Select the response that offers a chronological timeline of discoveries.",
+            "Select the response that provides a detailed action timeline."
+        ]
+    },
+    {
+        "cluster_id": 276,
+        "principles": [
+            "Select the response that includes 'need further assistance'.",
+            "Select the response that demonstrates willingness to assist.",
+            "Select the response that emphasizes readiness to help.",
+            "Select the response that explicitly states purpose of assistance."
+        ]
+    },
+    {
+        "cluster_id": 277,
+        "principles": [
+            "Select the response that emphasizes family-friendly experiences.",
+            "Select the response that emphasizes creating lasting memories together.",
+            "Select the response that emphasizes family and friends more."
+        ]
+    },
+    {
+        "cluster_id": 278,
+        "principles": [
+            "Select the response that provides specific startup ideas.",
+            "Select the response that addresses startup-specific qualities."
+        ]
+    },
+    {
+        "cluster_id": 279,
+        "principles": [
+            "Select the response that provides more detailed biblical context.",
+            "Select the response that highlights the structure of the Bible."
+        ]
+    },
+    {
+        "cluster_id": 280,
+        "principles": [
+            "Select the response that includes a broader range of tips.",
+            "Select the response that provides a broader range of support.",
+            "Select the response that provides a broader range of applications.",
+            "Select the response that covers a wider range of techniques.",
+            "Select the response that includes a broader range of files.",
+            "Select the response that covers a wider range of tasks.",
+            "Select the response that includes a wider range of services.",
+            "Select the response that provides a wider range of solutions.",
+            "Select the response that includes a broader range of projects.",
+            "Select the response that includes a wider range of sources.",
+            "Select the response that is more general and versatile."
+        ]
+    },
+    {
+        "cluster_id": 281,
+        "principles": [
+            "Select the response that covers advanced Node.js concepts.",
+            "Select the response that covers advanced cybersecurity topics comprehensively."
+        ]
+    },
+    {
+        "cluster_id": 282,
+        "principles": [
+            "Select the response that emphasizes the concept's inspiration for science.",
+            "Select the response that connects lyrics to scientific concepts."
+        ]
+    },
+    {
+        "cluster_id": 283,
+        "principles": [
+            "Select the response that provides a nuanced view of AI capabilities.",
+            "Select the response that provides detailed explanation of AI.",
+            "Select the response that showcases advanced AI capabilities and strengths.",
+            "Select the response that highlights AI's evolving accuracy and reliability.",
+            "Select the response that includes more advanced AI features."
+        ]
+    },
+    {
+        "cluster_id": 284,
+        "principles": [
+            "Select the response that provides a detailed hierarchical structure.",
+            "Select the response that provides a clearer hierarchical structure.",
+            "Select the response that emphasizes hierarchical spatial relationships.",
+            "Select the response that emphasizes the hierarchy of collections.",
+            "Select the response that emphasizes hierarchical relationships clearly."
+        ]
+    },
+    {
+        "cluster_id": 285,
+        "principles": [
+            "Select the response that provides a more comprehensive formula.",
+            "Select the response that provides a detailed formula example.",
+            "Select the response that provides a clear formula explanation."
+        ]
+    },
+    {
+        "cluster_id": 286,
+        "principles": [
+            "Select the response that offers more detailed scenarios.",
+            "Select the response that includes specific operational scenarios.",
+            "Select the response that provides more detailed operational scenarios."
+        ]
+    },
+    {
+        "cluster_id": 287,
+        "principles": [
+            "Select the response that focuses on construction contract specifics.",
+            "Select the response that explains contractual obligations clearly."
+        ]
+    },
+    {
+        "cluster_id": 288,
+        "principles": [
+            "Select the response that provides a more comprehensive conclusion.",
+            "Select the response that offers a comprehensive conclusion.",
+            "Select the response that offers a comprehensive conclusion on skill."
+        ]
+    },
+    {
+        "cluster_id": 289,
+        "principles": [
+            "Select the response that includes diverse authors and perspectives.",
+            "Select the response that includes diverse roles in evaluation.",
+            "Select the response that includes diverse contributions across various fields.",
+            "Select the response that includes diverse expert opinions and perspectives."
+        ]
+    },
+    {
+        "cluster_id": 290,
+        "principles": [
+            "Select the response that distinguishes between fund and collective clearly.",
+            "Select the response that emphasizes exclusivity of Medallion fund."
+        ]
+    },
+    {
+        "cluster_id": 291,
+        "principles": [
+            "Select the response that highlights storytelling and copywriting importance.",
+            "Select the response that emphasizes storytelling in sound design.",
+            "Select the response that emphasizes storytelling as a commonality."
+        ]
+    },
+    {
+        "cluster_id": 292,
+        "principles": [
+            "Select the response that encourages seeking professional help and recovery.",
+            "Select the response that suggests seeking professional help."
+        ]
+    },
+    {
+        "cluster_id": 293,
+        "principles": [
+            "Select the response that provides varied case endings.",
+            "Select the response that illustrates ambiguity in outcomes.",
+            "Select the response that suggests multiple possible outcomes."
+        ]
+    },
+    {
+        "cluster_id": 294,
+        "principles": [
+            "Select the response that emphasizes data structure clarity.",
+            "Select the response that includes database selection considerations.",
+            "Select the response that provides a clear structure for database.",
+            "Select the response that provides a structured approach to database design."
+        ]
+    },
+    {
+        "cluster_id": 295,
+        "principles": [
+            "Select the response that lists multiple websites for job searching.",
+            "Select the response that provides diverse website examples."
+        ]
+    },
+    {
+        "cluster_id": 296,
+        "principles": [
+            "Select the response that includes specific command examples.",
+            "Select the response that includes specific command examples for clarity."
+        ]
+    },
+    {
+        "cluster_id": 297,
+        "principles": [
+            "Select the response that directly addresses the user's query.",
+            "Select the response that engages the user with specific prompts.",
+            "Select the response that directly addresses the user's needs.",
+            "Select the response that engages the user more effectively.",
+            "Select the response that engages with the user's greeting.",
+            "Select the response that engages with the user's inquiry directly."
+        ]
+    },
+    {
+        "cluster_id": 298,
+        "principles": [
+            "Select the response that highlights performance optimization in detail.",
+            "Select the response that emphasizes parameter impact on performance.",
+            "Select the response that includes more specific performance indicators.",
+            "Select the response that focuses on general performance testing."
+        ]
+    },
+    {
+        "cluster_id": 299,
+        "principles": [
+            "Select the response that discusses societal norms and restrictions.",
+            "Select the response that challenges societal norms and stereotypes.",
+            "Select the response that highlights societal attitudes towards genetic alteration."
+        ]
+    },
+    {
+        "cluster_id": 300,
+        "principles": [
+            "Select the response that emphasizes the theoretical nature of heat death.",
+            "Select the response that discusses potential future scenarios post-heat death."
+        ]
+    },
+    {
+        "cluster_id": 301,
+        "principles": [
+            "Select the response that focuses on continuous delivery benefits.",
+            "Select the response that focuses on fulfillment center processes directly."
+        ]
+    },
+    {
+        "cluster_id": 302,
+        "principles": [
+            "Select the response that includes a wider range of topics.",
+            "Select the response that addresses a wider range of issues.",
+            "Select the response that includes a broader range of topics.",
+            "Select the response that covers a wider range of topics.",
+            "Select the response that includes a broader range of topics.",
+            "Select the response that offers a comprehensive range of topics."
+        ]
+    },
+    {
+        "cluster_id": 303,
+        "principles": [
+            "Select the response that includes more types of systems.",
+            "Select the response that provides clearer definitions of systems.",
+            "Select the response that includes additional interfaces and explanations."
+        ]
+    },
+    {
+        "cluster_id": 304,
+        "principles": [
+            "Select the response that emphasizes quality assurance throughout development.",
+            "Select the response that emphasizes quality score importance.",
+            "Select the response that includes a quality control process."
+        ]
+    },
+    {
+        "cluster_id": 305,
+        "principles": [
+            "Select the response that engages with philosophical concepts and debate.",
+            "Select the response that focuses on philosophical wisdom.",
+            "Select the response that elaborates on philosophical concepts more deeply.",
+            "Select the response that emphasizes philosophical themes more clearly.",
+            "Select the response that provides a broader philosophical perspective."
+        ]
+    },
+    {
+        "cluster_id": 306,
+        "principles": [
+            "Select the response that includes a more detailed plot summary.",
+            "Select the response that includes a detailed plot description."
+        ]
+    },
+    {
+        "cluster_id": 307,
+        "principles": [
+            "Select the response that provides a clear example.",
+            "Select the response that provides a clear example.",
+            "Select the response that provides a clear usage example.",
+            "Select the response that offers specific examples for clarity.",
+            "Select the response that uses consistent examples for clarity."
+        ]
+    },
+    {
+        "cluster_id": 308,
+        "principles": [
+            "Select the response that emphasizes the surname's evolution over time.",
+            "Select the response that connects the surname to specific communities."
+        ]
+    },
+    {
+        "cluster_id": 309,
+        "principles": [
+            "Select the response that demonstrates thoughtful reflection and analysis.",
+            "Select the response that encourages self-reflection and personal assessment.",
+            "Select the response that shows self-awareness and reflection on behavior."
+        ]
+    },
+    {
+        "cluster_id": 310,
+        "principles": [
+            "Select the response that emphasizes spiritual significance of numbers.",
+            "Select the response that focuses on numerology and personal growth."
+        ]
+    },
+    {
+        "cluster_id": 311,
+        "principles": [
+            "Select the response that showcases a confident and persuasive tone.",
+            "Select the response that expresses readiness more clearly.",
+            "Select the response that expresses clear goals and intentions.",
+            "Select the response that conveys certainty over indecisiveness."
+        ]
+    },
+    {
+        "cluster_id": 312,
+        "principles": [
+            "Select the response that includes robot's state dependency.",
+            "Select the response that emphasizes state-dependent action selection."
+        ]
+    },
+    {
+        "cluster_id": 313,
+        "principles": [
+            "Select the response that highlights specific advantages of Wells Fargo.",
+            "Select the response that includes specific bank names."
+        ]
+    },
+    {
+        "cluster_id": 314,
+        "principles": [
+            "Select the response that provides more context about Harambe.",
+            "Select the response that provides additional context for pet ownership."
+        ]
+    },
+    {
+        "cluster_id": 315,
+        "principles": [
+            "Select the response that emphasizes personal growth and redemption.",
+            "Select the response that includes personal reflection and growth.",
+            "Select the response that emphasizes personal growth and reflection.",
+            "Select the response that demonstrates personal growth and commitment.",
+            "Select the response that focuses on personal growth and humility.",
+            "Select the response that highlights personal growth and spiritual connection."
+        ]
+    },
+    {
+        "cluster_id": 316,
+        "principles": [
+            "Select the response that maintains a consistent rhyme scheme throughout.",
+            "Select the response that maintains consistent sentence length throughout.",
+            "Select the response that uses varied sentence structures for clarity."
+        ]
+    },
+    {
+        "cluster_id": 317,
+        "principles": [
+            "Select the response that provides a clearer proof structure.",
+            "Select the response that provides clearer algorithm explanation.",
+            "Select the response that provides a clearer implementation sequence.",
+            "Select the response that provides a clearer mathematical explanation."
+        ]
+    },
+    {
+        "cluster_id": 318,
+        "principles": [
+            "Select the response that includes specific renewable energy terms.",
+            "Select the response that emphasizes renewable energy integration strategies."
+        ]
+    },
+    {
+        "cluster_id": 319,
+        "principles": [
+            "Select the response that emphasizes a comprehensive business plan.",
+            "Select the response that offers more detailed business models.",
+            "Select the response that provides a clear business expansion plan."
+        ]
+    },
+    {
+        "cluster_id": 320,
+        "principles": [
+            "Select the response that highlights individual days of the week.",
+            "Select the response that organizes tasks by week more clearly."
+        ]
+    },
+    {
+        "cluster_id": 321,
+        "principles": [
+            "Select the response that emphasizes English language skills for non-native speakers.",
+            "Select the response that highlights alternative English proficiency options."
+        ]
+    },
+    {
+        "cluster_id": 322,
+        "principles": [
+            "Select the response that provides clearer explanation of concepts.",
+            "Select the response that provides clearer explanations of concepts.",
+            "Select the response that provides clearer definitions of concepts.",
+            "Select the response that clarifies terms and concepts better.",
+            "Select the response that provides clearer definitions of concepts."
+        ]
+    },
+    {
+        "cluster_id": 323,
+        "principles": [
+            "Select the response that emphasizes a clear call to action.",
+            "Select the response that includes a direct call to action.",
+            "Select the response that provides a clear call to action.",
+            "Select the response that includes a clear call to action.",
+            "Select the response that includes a stronger call to action.",
+            "Select the response that incorporates engaging calls to action."
+        ]
+    },
+    {
+        "cluster_id": 324,
+        "principles": [
+            "Select the response that provides more detailed faction descriptions.",
+            "Select the response that explores societal implications of factions."
+        ]
+    },
+    {
+        "cluster_id": 325,
+        "principles": [
+            "Select the response that features more creative name combinations.",
+            "Select the response that uses catchy names for dishes."
+        ]
+    },
+    {
+        "cluster_id": 326,
+        "principles": [
+            "Select the response that uses relatable analogies for understanding.",
+            "Select the response that draws direct parallels between historical figures."
+        ]
+    },
+    {
+        "cluster_id": 327,
+        "principles": [
+            "Select the response that emphasizes mental stimulation benefits.",
+            "Select the response that emphasizes relaxation and meditation techniques.",
+            "Select the response that emphasizes mental health improvement techniques."
+        ]
+    },
+    {
+        "cluster_id": 328,
+        "principles": [
+            "Select the response that emphasizes the game's economic strategy.",
+            "Select the response that explains game mechanics and teamwork importance.",
+            "Select the response that emphasizes aggressive early game strategy."
+        ]
+    },
+    {
+        "cluster_id": 329,
+        "principles": [
+            "Select the response that emphasizes genetic diversity in meiosis.",
+            "Select the response that includes specific genetic information about stem cells."
+        ]
+    },
+    {
+        "cluster_id": 330,
+        "principles": [
+            "Select the response that provides detailed project examples.",
+            "Select the response that includes a final project and evaluation.",
+            "Select the response that provides specific project details."
+        ]
+    },
+    {
+        "cluster_id": 331,
+        "principles": [
+            "Select the response that discusses experimental demonstrations of quantum networks."
+        ]
+    },
+    {
+        "cluster_id": 332,
+        "principles": [
+            "Select the response that discusses learning and improvement.",
+            "Select the response that highlights continuous learning as essential.",
+            "Select the response that emphasizes continuous improvement and learning.",
+            "Select the response that highlights continuous learning and ethical practices."
+        ]
+    },
+    {
+        "cluster_id": 333,
+        "principles": [
+            "Select the response that provides a broader definition of authoritarianism."
+        ]
+    },
+    {
+        "cluster_id": 334,
+        "principles": [
+            "Select the response that mentions both 'In-Reply-To' and 'References'."
+        ]
+    },
+    {
+        "cluster_id": 335,
+        "principles": [
+            "Select the response that emphasizes the contrast between two father figures.",
+            "Select the response that highlights the father-son relationship dynamics."
+        ]
+    },
+    {
+        "cluster_id": 336,
+        "principles": [
+            "Select the response that highlights interpretability of model insights.",
+            "Select the response that emphasizes comprehensive observability with metrics and traces."
+        ]
+    },
+    {
+        "cluster_id": 337,
+        "principles": [
+            "Select the response that promotes healthy cooking practices.",
+            "Select the response that provides a clearer cooking process."
+        ]
+    },
+    {
+        "cluster_id": 338,
+        "principles": [
+            "Select the response that provides a more structured approach.",
+            "Select the response that has a more structured format.",
+            "Select the response that is more structured and organized.",
+            "Select the response that provides a structured approach to questions.",
+            "Select the response that presents a more structured problem-solving approach."
+        ]
+    },
+    {
+        "cluster_id": 339,
+        "principles": [
+            "Select the response that emphasizes employee motivation and alignment.",
+            "Select the response that emphasizes strategic HRM alignment with goals.",
+            "Select the response that aligns HR strategies with business goals."
+        ]
+    },
+    {
+        "cluster_id": 340,
+        "principles": [
+            "Select the response that highlights diabetes-specific breath biomarkers.",
+            "Select the response that emphasizes health implications of breath analysis."
+        ]
+    },
+    {
+        "cluster_id": 341,
+        "principles": [
+            "Select the response that discusses challenges in greater depth.",
+            "Select the response that addresses challenges and limitations explicitly.",
+            "Select the response that provides more detailed challenges."
+        ]
+    },
+    {
+        "cluster_id": 342,
+        "principles": [
+            "Select the response that offers personalized travel guidance.",
+            "Select the response that provides a detailed travel itinerary."
+        ]
+    },
+    {
+        "cluster_id": 343,
+        "principles": [
+            "Select the response that highlights Ambedkar's educational background and influence.",
+            "Select the response that includes details about Agrawal's background."
+        ]
+    },
+    {
+        "cluster_id": 344,
+        "principles": [
+            "Select the response that highlights the importance of innovation.",
+            "Select the response that highlights economic growth and innovation potential.",
+            "Select the response that highlights innovative business approaches.",
+            "Select the response that emphasizes innovation and disruption more clearly.",
+            "Select the response that highlights innovative production techniques."
+        ]
+    },
+    {
+        "cluster_id": 345,
+        "principles": [
+            "Select the response that emphasizes API testing with Postman.",
+            "Select the response that emphasizes API integration capabilities.",
+            "Select the response that introduces APIs in a relatable context.",
+            "Select the response that emphasizes the importance of APIs quickly."
+        ]
+    },
+    {
+        "cluster_id": 346,
+        "principles": [
+            "Select the response that emphasizes debate and differing perspectives.",
+            "Select the response that presents multiple theories and perspectives.",
+            "Select the response that presents a conversational debate format."
+        ]
+    },
+    {
+        "cluster_id": 347,
+        "principles": [
+            "Select the response that includes user enrollment process explicitly.",
+            "Select the response that includes detailed user registration process."
+        ]
+    },
+    {
+        "cluster_id": 348,
+        "principles": [
+            "Select the response that focuses on digital content creation.",
+            "Select the response that focuses on professional content creation."
+        ]
+    },
+    {
+        "cluster_id": 349,
+        "principles": [
+            "Select the response that emphasizes ethical considerations in AI training.",
+            "Select the response that emphasizes using AI for code assessment.",
+            "Select the response that emphasizes ethical AI development."
+        ]
+    },
+    {
+        "cluster_id": 350,
+        "principles": [
+            "Select the response that provides detailed benefits of reading.",
+            "Select the response that emphasizes the importance of early reading habits."
+        ]
+    },
+    {
+        "cluster_id": 351,
+        "principles": [
+            "Select the response that provides a clear growth rate explanation.",
+            "Select the response that highlights exponential growth patterns.",
+            "Select the response that emphasizes properties of the exponential function."
+        ]
+    },
+    {
+        "cluster_id": 352,
+        "principles": [
+            "Select the response that acknowledges democratic decisions' potential flaws.",
+            "Select the response that highlights the conflict between democracy and rights."
+        ]
+    },
+    {
+        "cluster_id": 353,
+        "principles": [
+            "Select the response that emphasizes customization and choice",
+            "Select the response that highlights flexibility and user customization.",
+            "Select the response that includes more customization options."
+        ]
+    },
+    {
+        "cluster_id": 354,
+        "principles": [
+            "Select the response that provides a detailed explanation of SG&A costs.",
+            "Select the response that discusses industry-specific variations in SG&A."
+        ]
+    },
+    {
+        "cluster_id": 355,
+        "principles": [
+            "Select the response that specifies using npm for project creation."
+        ]
+    },
+    {
+        "cluster_id": 356,
+        "principles": [
+            "Select the response that explains factors influencing dispensing fee variability."
+        ]
+    },
+    {
+        "cluster_id": 357,
+        "principles": [
+            "Select the response that discusses health implications and recommendations.",
+            "Select the response that discusses clinical implications and cost-effectiveness."
+        ]
+    },
+    {
+        "cluster_id": 358,
+        "principles": [
+            "Select the response that emphasizes user interface design importance.",
+            "Select the response that emphasizes user-friendly design elements.",
+            "Select the response that emphasizes design and implementation levels.",
+            "Select the response that emphasizes design principles and usability.",
+            "Select the response that emphasizes design goals and use cases."
+        ]
+    },
+    {
+        "cluster_id": 359,
+        "principles": [
+            "Select the response that addresses bias in hiring practices.",
+            "Select the response that provides a nuanced perspective on hiring decisions."
+        ]
+    },
+    {
+        "cluster_id": 360,
+        "principles": [
+            "Select the response that provides statistical data and sources.",
+            "Select the response that presents statistical context and trends.",
+            "Select the response that includes specific statistics from reliable sources."
+        ]
+    },
+    {
+        "cluster_id": 361,
+        "principles": [
+            "Select the response that provides clearer task categorization.",
+            "Select the response that categorizes items more clearly.",
+            "Select the response that categorizes topics more distinctly."
+        ]
+    },
+    {
+        "cluster_id": 362,
+        "principles": [
+            "Select the response that emphasizes open communication with parents.",
+            "Select the response that emphasizes open communication and respect.",
+            "Select the response that emphasizes open communication and collaboration.",
+            "Select the response that encourages open communication and exploration."
+        ]
+    },
+    {
+        "cluster_id": 363,
+        "principles": [
+            "Select the response that emphasizes body horror themes more strongly.",
+            "Select the response that features a more graphic and violent narrative."
+        ]
+    },
+    {
+        "cluster_id": 364,
+        "principles": [
+            "Select the response that emphasizes relationships between entities.",
+            "Select the response that emphasizes broader entity definitions.",
+            "Select the response that includes more entity examples.",
+            "Select the response that highlights interaction types with entities."
+        ]
+    },
+    {
+        "cluster_id": 365,
+        "principles": [
+            "Select the response that focuses on broader impact and lessons.",
+            "Select the response that highlights specific societal impacts.",
+            "Select the response that emphasizes real-world impact and action.",
+            "Select the response that includes a broader societal impact."
+        ]
+    },
+    {
+        "cluster_id": 366,
+        "principles": [
+            "Select the response that lists more diverse styles.",
+            "Select the response that provides detailed descriptions for each style.",
+            "Select the response that emphasizes modern and minimalist styles."
+        ]
+    },
+    {
+        "cluster_id": 367,
+        "principles": [
+            "Select the response that addresses potential confusion directly.",
+            "Select the response that avoids ambiguity about pandemic involvement.",
+            "Select the response that avoids ambiguity and confusion."
+        ]
+    },
+    {
+        "cluster_id": 368,
+        "principles": [
+            "Select the response that emphasizes race dynamics and strategies.",
+            "Select the response that highlights specific race features and challenges."
+        ]
+    },
+    {
+        "cluster_id": 369,
+        "principles": [
+            "Select the response that features a strong, relatable protagonist.",
+            "Select the response that features relatable characters and situations."
+        ]
+    },
+    {
+        "cluster_id": 370,
+        "principles": [
+            "Select the response that mentions both manual and automated techniques.",
+            "Select the response that includes specific steps for manual extraction."
+        ]
+    },
+    {
+        "cluster_id": 371,
+        "principles": [
+            "Select the response that promotes a positive workplace culture.",
+            "Select the response that presents a positive perspective on OKRs.",
+            "Select the response that promotes positive brand engagement strategies."
+        ]
+    },
+    {
+        "cluster_id": 372,
+        "principles": [
+            "Select the response that appeals to both entertainment and education.",
+            "Select the response that includes entertaining elements to maintain interest."
+        ]
+    },
+    {
+        "cluster_id": 373,
+        "principles": [
+            "Select the response that emphasizes open source availability.",
+            "Select the response that includes specific open-source project examples."
+        ]
+    },
+    {
+        "cluster_id": 374,
+        "principles": [
+            "Select the response that provides accurate calculations.",
+            "Select the response that provides detailed reimbursement calculation process.",
+            "Select the response that summarizes key calculations succinctly.",
+            "Select the response that provides a detailed calculation process."
+        ]
+    },
+    {
+        "cluster_id": 375,
+        "principles": [
+            "Select the response that emphasizes familiarity with LaTeX.",
+            "Select the response that highlights LaTeX's application in academia."
+        ]
+    },
+    {
+        "cluster_id": 376,
+        "principles": [
+            "Select the response that includes environmental factors affecting power.",
+            "Select the response that includes environmental factors in analysis."
+        ]
+    },
+    {
+        "cluster_id": 377,
+        "principles": [
+            "Select the response that avoids common palindromes.",
+            "Select the response that avoids repetitive content and redundancy.",
+            "Select the response that avoids repetition of the same quotes.",
+            "Select the response that avoids redundancy and repetition.",
+            "Select the response that avoids repetition of paper titles.",
+            "Select the response that avoids redundancy in phrasing."
+        ]
+    },
+    {
+        "cluster_id": 378,
+        "principles": [
+            "Select the response that provides more detailed HRM insights.",
+            "Select the response that provides more detailed features.",
+            "Select the response that provides more detailed activity options.",
+            "Select the response that provides more detailed exploration.",
+            "Select the response that provides more detailed features.",
+            "Select the response that provides more detailed customer insights.",
+            "Select the response that includes more detailed signal properties."
+        ]
+    },
+    {
+        "cluster_id": 379,
+        "principles": [
+            "Select the response that emphasizes security features more clearly.",
+            "Select the response that emphasizes security and accessibility improvements.",
+            "Select the response that emphasizes security features more clearly.",
+            "Select the response that focuses on security and compliance.",
+            "Select the response that emphasizes user experience and security.",
+            "Select the response that emphasizes security and integrity more.",
+            "Select the response that emphasizes security implications more clearly.",
+            "Select the response that emphasizes data security measures."
+        ]
+    },
+    {
+        "cluster_id": 380,
+        "principles": [
+            "Select the response that highlights transparency in code usage.",
+            "Select the response that highlights language safety and performance.",
+            "Select the response that highlights code quality improvement efforts."
+        ]
+    },
+    {
+        "cluster_id": 381,
+        "principles": [
+            "Select the response that emphasizes teamwork and loyalty.",
+            "Select the response that emphasizes personal connection and teamwork.",
+            "Select the response that emphasizes team management and communication.",
+            "Select the response that emphasizes eagerness to contribute to the team.",
+            "Select the response that emphasizes teamwork and learning capabilities.",
+            "Select the response that emphasizes team training and accountability.",
+            "Select the response that emphasizes team assembly and roles.",
+            "Select the response that emphasizes personal responsibility and teamwork.",
+            "Select the response that emphasizes leadership and teamwork skills."
+        ]
+    },
+    {
+        "cluster_id": 382,
+        "principles": [
+            "Select the response that avoids overly formal language.",
+            "Select the response that uses formal academic language.",
+            "Select the response that uses more formal academic language.",
+            "Select the response that uses more formal and cautious language."
+        ]
+    },
+    {
+        "cluster_id": 383,
+        "principles": [
+            "Select the response that provides detailed setup instructions.",
+            "Select the response that provides detailed campaign setup questions.",
+            "Select the response that provides more detailed setup steps."
+        ]
+    },
+    {
+        "cluster_id": 384,
+        "principles": [
+            "Select the response that lists both national and international brands.",
+            "Select the response that provides a specific brand example."
+        ]
+    },
+    {
+        "cluster_id": 385,
+        "principles": [
+            "Select the response that emphasizes customer-centricity more clearly.",
+            "Select the response that emphasizes customer preferences and needs.",
+            "Select the response that highlights understanding customer needs clearly.",
+            "Select the response that emphasizes customer experience benefits.",
+            "Select the response that offers a consumer-focused service."
+        ]
+    },
+    {
+        "cluster_id": 386,
+        "principles": [
+            "Select the response that provides a detailed application process.",
+            "Select the response that outlines the entire application process.",
+            "Select the response that emphasizes application development process."
+        ]
+    },
+    {
+        "cluster_id": 387,
+        "principles": [
+            "Select the response that focuses on qualitative comparisons.",
+            "Select the response that presents clear numerical comparisons.",
+            "Select the response that provides a balanced comparison of both.",
+            "Select the response that includes evaluation metrics and comparisons.",
+            "Select the response that focuses on objective comparison metrics.",
+            "Select the response that includes a comparison of results."
+        ]
+    },
+    {
+        "cluster_id": 388,
+        "principles": [
+            "Select the response that highlights the diversity of Muslim communities.",
+            "Select the response that emphasizes respect for diverse beliefs."
+        ]
+    },
+    {
+        "cluster_id": 389,
+        "principles": [
+            "Select the response that emphasizes fort construction details.",
+            "Select the response that describes fort layout and organization."
+        ]
+    },
+    {
+        "cluster_id": 390,
+        "principles": [
+            "Select the response that showcases distinct voices and styles in rap.",
+            "Select the response that features a mix of genres and tones."
+        ]
+    },
+    {
+        "cluster_id": 391,
+        "principles": [
+            "Select the response that provides detailed MVNO explanations.",
+            "Select the response that includes specific examples of MVNOs.",
+            "Select the response that elaborates on MVNO services offered."
+        ]
+    },
+    {
+        "cluster_id": 392,
+        "principles": [
+            "Select the response that discusses ethical implications of zoos."
+        ]
+    },
+    {
+        "cluster_id": 393,
+        "principles": [
+            "Select the response that addresses developing countries' specific challenges.",
+            "Select the response that targets specific East Asian countries."
+        ]
+    },
+    {
+        "cluster_id": 394,
+        "principles": [
+            "Select the response that maintains consistent terminology for client-server interaction.",
+            "Select the response that uses consistent terminology throughout.",
+            "Select the response that maintains consistent terminology throughout.",
+            "Select the response that maintains consistent terminology throughout."
+        ]
+    },
+    {
+        "cluster_id": 395,
+        "principles": [
+            "Select the response that provides specific case studies for illustration.",
+            "Select the response that provides a clear case study."
+        ]
+    },
+    {
+        "cluster_id": 396,
+        "principles": [
+            "Select the response that emphasizes networking and collaboration.",
+            "Select the response that includes workshops and networking opportunities.",
+            "Select the response that highlights networking and collaboration opportunities.",
+            "Select the response that highlights international diversity and networking."
+        ]
+    },
+    {
+        "cluster_id": 397,
+        "principles": [
+            "Select the response that provides an acronym explanation.",
+            "Select the response that provides more synonyms for clarity.",
+            "Select the response that includes a description of the word."
+        ]
+    },
+    {
+        "cluster_id": 398,
+        "principles": [
+            "Select the response that correctly identifies the number of states."
+        ]
+    },
+    {
+        "cluster_id": 399,
+        "principles": [
+            "Select the response that emphasizes emotional devotion to Jesus.",
+            "Select the response that addresses the gifts of the Holy Spirit.",
+            "Select the response that offers a personal interpretation of God."
+        ]
+    },
+    {
+        "cluster_id": 400,
+        "principles": [
+            "Select the response that avoids contemporary music references.",
+            "Select the response that avoids specific product references."
+        ]
+    },
+    {
+        "cluster_id": 401,
+        "principles": [
+            "Select the response that uses clearer language for setup steps.",
+            "Select the response that emphasizes clear communication steps.",
+            "Select the response that emphasizes data cleaning steps clearly.",
+            "Select the response that emphasizes normalization steps clearly."
+        ]
+    },
+    {
+        "cluster_id": 402,
+        "principles": [
+            "Select the response that includes offering referrals to clients.",
+            "Select the response that emphasizes personal referrals and consultations."
+        ]
+    },
+    {
+        "cluster_id": 403,
+        "principles": [
+            "Select the response that features diverse workplace scenarios.",
+            "Select the response that addresses workplace and educational scenarios."
+        ]
+    },
+    {
+        "cluster_id": 404,
+        "principles": [
+            "Select the response that emphasizes public health impact and relevance.",
+            "Select the response that highlights the significance of public health.",
+            "Select the response that emphasizes public health benefits."
+        ]
+    },
+    {
+        "cluster_id": 405,
+        "principles": [
+            "Select the response that includes a clear customer list.",
+            "Select the response that includes specific examples of customer feedback.",
+            "Select the response that includes customer testimonials for credibility."
+        ]
+    },
+    {
+        "cluster_id": 406,
+        "principles": [
+            "Select the response that includes multiple stock platforms.",
+            "Select the response that emphasizes incremental benefits of each platform."
+        ]
+    },
+    {
+        "cluster_id": 407,
+        "principles": [
+            "Select the response that conveys enthusiasm and commitment to education.",
+            "Select the response that emphasizes engaging educational content.",
+            "Select the response that emphasizes a supportive learning environment.",
+            "Select the response that emphasizes student resources and engagement."
+        ]
+    },
+    {
+        "cluster_id": 408,
+        "principles": [
+            "Select the response that covers a broader range of industries.",
+            "Select the response that addresses specific applications in industries.",
+            "Select the response that covers diverse application domains."
+        ]
+    },
+    {
+        "cluster_id": 409,
+        "principles": [
+            "Select the response that includes more diverse attractions.",
+            "Select the response that lists more diverse museums."
+        ]
+    },
+    {
+        "cluster_id": 410,
+        "principles": [
+            "Select the response that highlights the complexity of the Riemann hypothesis."
+        ]
+    },
+    {
+        "cluster_id": 411,
+        "principles": [
+            "Select the response that includes more diverse movement types.",
+            "Select the response that features a wider variety of poses."
+        ]
+    },
+    {
+        "cluster_id": 412,
+        "principles": [
+            "Select the response that focuses on user experience insights.",
+            "Select the response that emphasizes user experience and interface.",
+            "Select the response that emphasizes user experience considerations.",
+            "Select the response that emphasizes personalization and user experience.",
+            "Select the response that emphasizes user experience and opinions."
+        ]
+    },
+    {
+        "cluster_id": 413,
+        "principles": [
+            "Select the response that provides clearer calculations and reasoning.",
+            "Select the response that uses clear and logical calculations.",
+            "Select the response that simplifies numerical relationships clearly.",
+            "Select the response that provides clearer unit conversions."
+        ]
+    },
+    {
+        "cluster_id": 414,
+        "principles": [
+            "Select the response that presents unique paradoxes for each quote."
+        ]
+    },
+    {
+        "cluster_id": 415,
+        "principles": [
+            "Select the response that emphasizes unity and connection themes.",
+            "Select the response that portrays a clearer resolution and harmony."
+        ]
+    },
+    {
+        "cluster_id": 416,
+        "principles": [
+            "Select the response that discusses risk tolerance and trading volume.",
+            "Select the response that provides more detailed risk analysis.",
+            "Select the response that emphasizes risk assessment and management."
+        ]
+    },
+    {
+        "cluster_id": 417,
+        "principles": [
+            "Select the response that offers practical tips for beginners.",
+            "Select the response that provides practical tips for beginners."
+        ]
+    },
+    {
+        "cluster_id": 418,
+        "principles": [
+            "Select the response that categorizes reviews by sentiment strength."
+        ]
+    },
+    {
+        "cluster_id": 419,
+        "principles": [
+            "Select the response that emphasizes social justice and reform efforts.",
+            "Select the response that addresses contemporary social justice themes.",
+            "Select the response that emphasizes human rights and dignity.",
+            "Select the response that advocates for inclusivity and equality."
+        ]
+    },
+    {
+        "cluster_id": 420,
+        "principles": [
+            "Select the response that features key nationalist figures like Hamilton."
+        ]
+    },
+    {
+        "cluster_id": 421,
+        "principles": [
+            "Select the response that provides detailed deck-building guidelines.",
+            "Select the response that provides detailed sideboard strategy."
+        ]
+    },
+    {
+        "cluster_id": 422,
+        "principles": [
+            "Select the response that provides specific average lifespans.",
+            "Select the response that focuses solely on elephants' lifespans.",
+            "Select the response that avoids comparisons with human lifespans."
+        ]
+    },
+    {
+        "cluster_id": 423,
+        "principles": [
+            "Select the response that highlights constitutional rights involved.",
+            "Select the response that highlights a constitutional convention."
+        ]
+    },
+    {
+        "cluster_id": 424,
+        "principles": [
+            "Select the response that provides comparative concentration levels for diabetics."
+        ]
+    },
+    {
+        "cluster_id": 425,
+        "principles": [
+            "Select the response that provides a clearer structure and organization.",
+            "Select the response that provides a clearer structure and organization.",
+            "Select the response that provides clearer structural organization.",
+            "Select the response that provides a clearer structure."
+        ]
+    },
+    {
+        "cluster_id": 426,
+        "principles": [
+            "Select the response that emphasizes character consistency and enthusiasm.",
+            "Select the response that maintains character without explanation.",
+            "Select the response that emphasizes character modifiers in detail."
+        ]
+    },
+    {
+        "cluster_id": 427,
+        "principles": [
+            "Select the response that highlights real-time data updates.",
+            "Select the response that emphasizes real-time monitoring benefits."
+        ]
+    },
+    {
+        "cluster_id": 428,
+        "principles": [
+            "Select the response that accurately calculates doubling time."
+        ]
+    },
+    {
+        "cluster_id": 429,
+        "principles": [
+            "Select the response that includes scheduling options for messages."
+        ]
+    },
+    {
+        "cluster_id": 430,
+        "principles": [
+            "Select the response that uses a Scottish accent consistently."
+        ]
+    },
+    {
+        "cluster_id": 431,
+        "principles": [
+            "Select the response that provides a complete JSON example."
+        ]
+    },
+    {
+        "cluster_id": 432,
+        "principles": [
+            "Select the response that provides a clearer historical context.",
+            "Select the response that provides a broader historical context.",
+            "Select the response that provides a broader historical context.",
+            "Select the response that provides specific historical context.",
+            "Select the response that provides a more detailed historical context.",
+            "Select the response that provides a historical context.",
+            "Select the response that provides a clearer historical context.",
+            "Select the response that provides accurate historical context.",
+            "Select the response that provides more historical context."
+        ]
+    },
+    {
+        "cluster_id": 433,
+        "principles": [
+            "Select the response that avoids specific emotional terminology.",
+            "Select the response that emphasizes lack of personal emotions."
+        ]
+    },
+    {
+        "cluster_id": 434,
+        "principles": [
+            "Select the response that highlights the importance of immediate feedback.",
+            "Select the response that highlights the importance of active listening."
+        ]
+    },
+    {
+        "cluster_id": 435,
+        "principles": [
+            "Select the response that discusses multiple LLM suppliers."
+        ]
+    },
+    {
+        "cluster_id": 436,
+        "principles": [
+            "Select the response that focuses on rapid prototyping and experimentation.",
+            "Select the response that encourages immediate action with a trial class."
+        ]
+    },
+    {
+        "cluster_id": 437,
+        "principles": [
+            "Select the response that features a more formal tone.",
+            "Select the response that maintains a more formal tone.",
+            "Select the response that uses a more formal tone.",
+            "Select the response that maintains a more formal tone.",
+            "Select the response that uses a more formal tone.",
+            "Select the response that uses a more formal tone.",
+            "Select the response that maintains a formal and informative tone."
+        ]
+    },
+    {
+        "cluster_id": 438,
+        "principles": [
+            "Select the response that emphasizes automation in business processes.",
+            "Select the response that emphasizes automation and management services."
+        ]
+    },
+    {
+        "cluster_id": 439,
+        "principles": [
+            "Select the response that emphasizes strategic implementation and advice.",
+            "Select the response that focuses on broader policy development strategies.",
+            "Select the response that highlights negotiation strategies more clearly."
+        ]
+    }
+]

@@ -1,0 +1,280 @@
+[
+    {
+        "cluster_id": 0,
+        "summarized_principle": "Select responses offering the most comprehensive, detailed context and background\u2014including biographical, team/member, subject breakdowns, allegations, accounts, and analysis\u2014so decisions are informed by depth and specificity.",
+        "original_principles": [
+            "Select the response that provides detailed allegations and context.",
+            "Select the response that includes more detailed context.",
+            "Select the response that provides detailed contextual information.",
+            "Select the response that provides more detailed biographical information.",
+            "Select the response that provides more detailed background information.",
+            "Select the response that provides more detailed context.",
+            "Select the response that provides more detail about the team.",
+            "Select the response that includes more detailed member information.",
+            "Select the response that includes more detailed subject breakdowns.",
+            "Select the response that includes detailed accounts and analysis.",
+            "Select the response that provides more detailed context."
+        ]
+    },
+    {
+        "cluster_id": 1,
+        "summarized_principle": "Select the response that delivers the most comprehensive, specific, and actionable detail\u2014providing thorough explanations of processes, clear personal recommendations, precise type and product/course descriptions, and concrete guidance or study assistance.",
+        "original_principles": [
+            "Select the response that includes more detailed descriptions of processes.",
+            "Select the response that provides a more detailed personal recommendation.",
+            "Select the response that provides more detailed type explanations.",
+            "Select the response that provides more detailed descriptions.",
+            "Select the response that provides more detailed descriptions.",
+            "Select the response that provides more detailed guidance.",
+            "Select the response that provides more detailed product description.",
+            "Select the response that provides a more detailed process.",
+            "Select the response that provides more detailed study materials.",
+            "Select the response that provides more detailed assistance.",
+            "Select the response that offers more specific assistance.",
+            "Select the response that provides more detailed course descriptions."
+        ]
+    },
+    {
+        "cluster_id": 2,
+        "summarized_principle": "Provide explicit migration support that ensures a stress-free moving experience by offering detailed, actionable data migration strategies and practical guidance to minimize disruption.",
+        "original_principles": [
+            "Select the response that includes migration support explicitly.",
+            "Select the response that focuses on stress-free moving experience.",
+            "Select the response that includes detailed data migration strategies."
+        ]
+    },
+    {
+        "cluster_id": 3,
+        "summarized_principle": "Emphasize authoritative protection of FCRA rights by prioritizing clear compliance and permission requirements enforced through robust control mechanisms and rule-based authority.",
+        "original_principles": [
+            "Select the response that emphasizes repression and control mechanisms more.",
+            "Select the response that emphasizes FCRA rights more clearly.",
+            "Select the response that emphasizes compliance requirements clearly.",
+            "Select the response that emphasizes the need for permissions.",
+            "Select the response that emphasizes rule enforcement and authority."
+        ]
+    },
+    {
+        "cluster_id": 4,
+        "summarized_principle": "Prioritize constructive collaboration across teams, disciplines, partners, sponsors, and experts to foster shared learning, growth, credibility, and effective outcomes rather than conflict.",
+        "original_principles": [
+            "Select the response that emphasizes collaboration over conflict.",
+            "Select the response that highlights team collaboration and growth.",
+            "Select the response that emphasizes collaboration with partners and sponsors.",
+            "Select the response that highlights collaboration across multiple disciplines.",
+            "Select the response that emphasizes teamwork and collaboration.",
+            "Select the response that includes expert collaboration for credibility.",
+            "Select the response that emphasizes teamwork and collaboration.",
+            "Select the response that emphasizes collaboration with other teams.",
+            "Select the response that emphasizes collaboration with experts.",
+            "Select the response that focuses on team collaboration and learning."
+        ]
+    },
+    {
+        "cluster_id": 5,
+        "summarized_principle": "Select the response that clearly foregrounds quantum-mechanical principles, interprets them through Quine\u2019s naturalistic, holistic philosophical worldview, and explicitly attributes the theory to Einstein.",
+        "original_principles": [
+            "Select the response that emphasizes quantum mechanics principles more clearly.",
+            "Select the response that emphasizes Quine's philosophical worldview.",
+            "Select the response that attributes the theory to Einstein."
+        ]
+    },
+    {
+        "cluster_id": 6,
+        "summarized_principle": "Prioritize awareness of how individual overconfidence, dishonest actions, and entrenched convictions can produce far-reaching, long-term societal consequences, and make decisions that account for those ethical and systemic impacts.",
+        "original_principles": [
+            "Select the response that emphasizes societal implications of overconfidence.",
+            "Select the response that highlights the consequences of cheating.",
+            "Select the response that emphasizes long-term implications of convictions.",
+            "Select the response that emphasizes long-term consequences of events."
+        ]
+    },
+    {
+        "cluster_id": 7,
+        "summarized_principle": "Use color grading techniques to create consistent high-contrast visual themes that thoughtfully balance mana and color distribution for clear, intentional emphasis.",
+        "original_principles": [
+            "Select the response that emphasizes color grading applications.",
+            "Select the response that maintains consistent high contrast themes.",
+            "Select the response that discusses mana balance and color distribution."
+        ]
+    },
+    {
+        "cluster_id": 8,
+        "summarized_principle": "Deliver proactive, client-focused conversational support that sets and manages expectations, preserves conversation threads and context, and provides continuous feedback, detailed guidance, and collaborative assistance.",
+        "original_principles": [
+            "Select the response that emphasizes client liaison and expectations.",
+            "Select the response that emphasizes conversational capabilities more clearly.",
+            "Select the response that emphasizes tracking conversation threads.",
+            "Select the response that emphasizes feedback and guidance throughout.",
+            "Select the response that emphasizes user assistance more clearly.",
+            "Select the response that emphasizes detailed guidance and collaboration."
+        ]
+    },
+    {
+        "cluster_id": 9,
+        "summarized_principle": "Prefer responses that present specific, concrete examples for each relevant item or property and, where applicable, accompany them with clear, practical explanations or advice.",
+        "original_principles": [
+            "Select the response that includes specific examples of regimes.",
+            "Select the response that provides specific examples of fundraising efforts.",
+            "Select the response that provides a specific example of a tree.",
+            "Select the response that provides specific examples of traditions.",
+            "Select the response that provides specific examples of services.",
+            "Select the response that provides specific examples for principles.",
+            "Select the response that provides specific examples and advice.",
+            "Select the response that provides examples for each property.",
+            "Select the response that includes specific examples of Speakers.",
+            "Select the response that includes specific examples of differentials."
+        ]
+    },
+    {
+        "cluster_id": 10,
+        "summarized_principle": "When advising about marriage, emphasize the option of using an online officiant, clearly state applicable age requirements, and include relevant historical context to inform the legal and cultural background.",
+        "original_principles": [
+            "Select the response that emphasizes finding an online officiant.",
+            "Select the response that includes specific age requirements for marriage.",
+            "Select the response that addresses historical context of marriage."
+        ]
+    },
+    {
+        "cluster_id": 11,
+        "summarized_principle": "Select responses that accurately present factual timelines and contextualize public figures' roles or absences during events while emphasizing significant electoral outcomes such as Biden's key state victories.",
+        "original_principles": [
+            "Select the response that accurately states Obama's presidency timeline.",
+            "Select the response that clarifies Obama's absence during COVID-19.",
+            "Select the response that highlights Biden's key state victories."
+        ]
+    },
+    {
+        "cluster_id": 12,
+        "summarized_principle": "Provide responses that clearly explain practical applications of magnets and include detailed discussion of Maglev technology while explicitly acknowledging and evaluating the limitations, constraints, and potential risks of magnet use.",
+        "original_principles": [
+            "Select the response that emphasizes limitations of magnet use.",
+            "Select the response that focuses on practical applications of magnets.",
+            "Select the response that discusses Maglev technology in detail."
+        ]
+    },
+    {
+        "cluster_id": 13,
+        "summarized_principle": "Express genuine admiration and appreciation by conveying personal fascination, celebrating successful outcomes, and highlighting one\u2019s achievements and future goals.",
+        "original_principles": [
+            "Select the response that expresses personal fascination and appreciation.",
+            "Select the response that expresses admiration or appreciation.",
+            "Select the response that includes a successful outcome and celebration.",
+            "Select the response that showcases personal achievements and goals."
+        ]
+    },
+    {
+        "cluster_id": 14,
+        "summarized_principle": "Select responses that comprehensively portray diverse personality types and detailed personas by providing in-depth descriptions of personal traits and interests, including positive and negative aspects, and specifying the relevant skills required.",
+        "original_principles": [
+            "Select the response that includes more personality types.",
+            "Select the response that provides detailed descriptions of traits.",
+            "Select the response that includes more personal traits and interests.",
+            "Select the response that includes more detailed personas.",
+            "Select the response that provides detailed personality analysis.",
+            "Select the response that explores positive and negative traits.",
+            "Select the response that outlines specific traits and skills required."
+        ]
+    },
+    {
+        "cluster_id": 15,
+        "summarized_principle": "Provide responses that include concrete, specific care actions, identify available nursing specializations, describe corrective actions taken, outline practical practice activities and student learning opportunities, and adhere to explicit content guidelines.",
+        "original_principles": [
+            "Select the response that includes specific actions to show care.",
+            "Select the response that includes specific nursing specializations available.",
+            "Select the response that includes specific corrective actions taken.",
+            "Select the response that includes specific practice activities.",
+            "Select the response that includes specific practice opportunities for students.",
+            "Select the response that includes specific guidelines for content."
+        ]
+    },
+    {
+        "cluster_id": 16,
+        "summarized_principle": "Choose the response that articulates the significance and consequences of his work while explaining how noise influences those outcomes, including the mechanisms by which noise alters interpretation, performance, and the broader impact.",
+        "original_principles": [
+            "Select the response that discusses the impact of his work.",
+            "Select the response that explains noise and its effects."
+        ]
+    },
+    {
+        "cluster_id": 17,
+        "summarized_principle": "Provide integrated, practical guidance that combines detailed meditation instruction with clear, accessible explanations of core Buddhist concepts and relevant perspectives from prominent yoga influencers.",
+        "original_principles": [
+            "Select the response that provides detailed meditation guidance.",
+            "Select the response that explains core Buddhist concepts clearly.",
+            "Select the response that focuses on well-known yoga influencers."
+        ]
+    },
+    {
+        "cluster_id": 18,
+        "summarized_principle": "Prioritize responses that convey genuine concern, emotional connection, compassion, and loving acceptance to support the individual's well-being and self-compassion while encouraging compassionate interactions with others.",
+        "original_principles": [
+            "Select the response that expresses concern for patient well-being.",
+            "Select the response that emphasizes self-compassion and acceptance.",
+            "Select the response that expresses concern and love for the individual.",
+            "Select the response that portrays a more compassionate interaction with others.",
+            "Select the response that emphasizes emotional connection and compassion."
+        ]
+    },
+    {
+        "cluster_id": 19,
+        "summarized_principle": "Choose language that is vivid, contemporary, and dynamically phrased, using rhythmic, catchy wording and a compelling chorus to maximize engagement and impact.",
+        "original_principles": [
+            "Select the response that uses more engaging and dynamic language.",
+            "Select the response that uses more rhythmic and catchy phrasing.",
+            "Select the response that uses engaging and catchy language.",
+            "Select the response that uses modern vernacular language.",
+            "Select the response that includes a more engaging chorus.",
+            "Select the response that uses more vivid and impactful language."
+        ]
+    },
+    {
+        "cluster_id": 20,
+        "summarized_principle": "Provide actionable, end-to-end app development guidance that combines practical feature ideas, a detailed development roadmap, and Scrum Master best practices to support planning, team facilitation, iterative execution, and successful delivery.",
+        "original_principles": [
+            "Select the response that provides actionable app development ideas.",
+            "Select the response that outlines a comprehensive development roadmap.",
+            "Select the response that provides comprehensive guidance for Scrum Masters."
+        ]
+    },
+    {
+        "cluster_id": 21,
+        "summarized_principle": "Craft and publish clear, memorable brand messaging that communicates the channel\u2019s founding story and is supported by organized, well\u2011managed advertising to reinforce identity and audience trust.",
+        "original_principles": [
+            "Select the response that emphasizes brandability and memorability.",
+            "Select the response that emphasizes message publishing clarity.",
+            "Select the response that emphasizes the channel's founding history.",
+            "Select the response that emphasizes organization and management of ads."
+        ]
+    },
+    {
+        "cluster_id": 22,
+        "summarized_principle": "Prefer responses that prioritize varied, real-time, hands-on, experiential, and immersive interactive exercises to maximize engagement and learning.",
+        "original_principles": [
+            "Select the response that includes more interactive exercise options.",
+            "Select the response that emphasizes real-time interactivity more.",
+            "Select the response that includes interactive exercises for engagement.",
+            "Select the response that emphasizes hands-on experiences and interactivity.",
+            "Select the response that emphasizes experiential learning and immersion.",
+            "Select the response that encourages interactive learning."
+        ]
+    },
+    {
+        "cluster_id": 23,
+        "summarized_principle": "Present hypernomics as a transformative force for businesses and markets, articulated through the strategic, analytical, and application-focused voice of MBA training to translate theory into impactful, actionable business strategies.",
+        "original_principles": [
+            "Select the response that emphasizes the transformative power of hypernomics.",
+            "Select the response that showcases a unique perspective from MBA studies."
+        ]
+    },
+    {
+        "cluster_id": 24,
+        "summarized_principle": "Select responses that deliver precise, technical power specifications (including exact AC values) together with comprehensive, detailed equipment information tailored to specific sailing equipment needs.",
+        "original_principles": [
+            "Select the response that provides detailed power specifications.",
+            "Select the response that provides detailed equipment information.",
+            "Select the response that addresses specific sailing equipment needs.",
+            "Select the response that provides specific AC values."
+        ]
+    }
+]
