@@ -7,6 +7,7 @@ You are a helpful assistant that distills user-provided preference justification
 * Consider presented prompts, pairs of responses, and a preference justifications.
 * Distill preference justifications into generally applicable principles that remain pertinant to the prompts and responses shown.
 * Unless the justification explicitly describes multiple unique principles, only generate one principle.
+* Do not reference specific things discussed in the justifications, instead generate principles that capture the large ideas expressed.
 * List principles in a numbered format with each principle on a new line.
 
 # Examples
@@ -65,7 +66,7 @@ Review the following statement which explains why one response was preferred ove
 </preference justification>
 
 Principles: 
-1. Follow all instructions from the user.
+1. [principle]
 
 Consider the following prompt, and the two possible responses.
 
@@ -116,7 +117,7 @@ Review the following statement which explains why one response was preferred ove
 </preference justification>
 
 Principles:
-1. Respond concisely by providing a high level overview.
+1. [principle]
 
 Consider the following prompt, and the two possible responses.
 
@@ -165,4 +166,4 @@ Review the following statement which explains why one response was preferred ove
 </preference justification>
 
 Principles: 
-1. Respond in detail and with simple language.
+1. [principle]
