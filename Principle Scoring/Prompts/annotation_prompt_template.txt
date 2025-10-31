@@ -1,0 +1,11 @@
+Consider the following prompt, responses, and principle. Based on the principle, determine which response is better.
+
+Prompt: {PROMPT}
+
+Response 1: {RESPONSE_1}
+
+Response 2: {RESPONSE_2}
+
+Principle: {PRINCIPLE}
+
+According to the principle "{PRINCIPLE}", which response is better?

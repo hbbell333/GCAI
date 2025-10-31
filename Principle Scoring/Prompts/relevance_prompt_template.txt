@@ -1,0 +1,11 @@
+Consider the following prompt, responses, and principle. Determine how relevant the principle is to determining which response is better.
+
+Prompt: {PROMPT}
+
+Response 1: {RESPONSE_1}
+
+Response 2: {RESPONSE_2}
+
+Principle: {PRINCIPLE}
+
+Between 1 (Not at all relevant) and 5 (Extremely relevant) how relevant is "{PRINCIPLE}" in determining which response is better?
