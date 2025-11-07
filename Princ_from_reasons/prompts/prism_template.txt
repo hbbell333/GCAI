@@ -1,0 +1,10 @@
+Consider the following conversation between a human and an agent, as well as the feedback a human gave after the conversation.
+
+Conversation: {CONVERSATION}
+
+Human Feedback: {HUMAN_FEEDBACK}
+
+Based on the above conversation and feedback, please list some general guiding principles that the human would want to guide the agent.
+
+Principles: 
+
