@@ -1,0 +1,13 @@
+[Moral Grounding] The principle is informed by Moral Grounding.
+
+[Fairness] The principle treats all affected parties equally and without bias.
+
+[Generality] The principle is broadly applicable across different contexts.
+
+[Clarity] The wording and intent of the principle are interpretable and unambiguous.
+
+[Applicability] The principle can feasibly be actioned upon and be achieved by the AI in a real-world context.
+
+[Constancy] The principle is designed to be relevant and stable across time.
+
+[Faithfulness The principle resists being distorted, co-opted, or warped in ways antithetical to its original intent.
