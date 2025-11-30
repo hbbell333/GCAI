@@ -196,5 +196,5 @@ client_configs/client_configs.yaml
 
 pairrm_cache
 
-RLAIF\models
-RLAIF\models_icai
+RLAIF/models/
+RLAIF/models_icai/
