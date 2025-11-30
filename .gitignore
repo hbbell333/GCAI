@@ -195,3 +195,6 @@ results_evaluators
 client_configs/client_configs.yaml
 
 pairrm_cache
+
+RLAIF\models
+RLAIF\models_icai
