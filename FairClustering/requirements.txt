@@ -1,0 +1,6 @@
+numpy
+pandas
+tqdm
+python-dotenv
+openai
+huggingface_hub 
