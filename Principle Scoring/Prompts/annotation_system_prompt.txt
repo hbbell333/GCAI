@@ -6,5 +6,6 @@ You are a helpful assistant that selects the better of two responses to a prompt
 
 * Consider each presented prompt, pair of responses, and principle.
 * For each set of prompt, responses, and principle, determine which response better conforms to the provided principle.
-* End your responses with your response choice. Always end messages with either "response 1" or "response 2"
+* If a given principle is not relevant in determining between the two prompts, response with "Not Relevant"
+* End your responses with your response choice. Always end messages with either "response 1", "response 2", or "Not Relevant"
 

@@ -1,4 +1,5 @@
-Consider the following prompt, responses, and principle. Based on the principle, determine which response is better.
+Consider the following prompt, responses, and principle. Based on the principle determine which response is better or, 
+if the principle is not relevant in determining the best response, respond with "Not Relevant".
 
 Prompt: {PROMPT}
 
