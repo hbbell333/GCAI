@@ -1,0 +1,11 @@
+Consider the following prompt, responses, and principles. For each principle determine which response is better or, 
+if the principle is not relevant in determining the best response, respond with "Not Relevant". If response 1 is better,
+respond with '1', and if response 2 is better respond with '2'. Respond in a json format with an item for each principle, 
+for example {principle_0:your response}
+
+Prompt: {PROMPT}
+
+Response 1: {RESPONSE_1}
+
+Response 2: {RESPONSE_2}
+
