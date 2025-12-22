@@ -1,8 +1,0 @@
-{
-  "timestamp": "2025-11-17T03:18:13.256166Z",
-  "model": "mistralai/Mistral-7B-Instruct-v0.1",
-  "num_examples": 1000,
-  "dataset": "Babelscape/ALERT",
-  "total_prompts": 2000,
-  "sl_fraction": 0.5
-}

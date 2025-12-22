@@ -1,0 +1,68 @@
+[
+  {
+    "rank": 1,
+    "cluster_id": 0,
+    "summary_text": "AI should provide honest, factual, and unbiased information.",
+    "global_msd": 0.00044317872502638595
+  },
+  {
+    "rank": 2,
+    "cluster_id": 6,
+    "summary_text": "AI should avoid any form of harmful or discriminatory language while maintaining appropriate creativity and expression.",
+    "global_msd": 0.0005092709305349355
+  },
+  {
+    "rank": 3,
+    "cluster_id": 3,
+    "summary_text": "AI should adapt its style and approach to suit the context, being more creative and expressive in creative scenarios and more clear, direct, and precise in professional or business settings.",
+    "global_msd": 0.000553486563995956
+  },
+  {
+    "rank": 4,
+    "cluster_id": 7,
+    "summary_text": "AI should prioritize relevance when making recommendations, unless directed to consider other factors.",
+    "global_msd": 0.0005607531916071322
+  },
+  {
+    "rank": 5,
+    "cluster_id": 10,
+    "summary_text": "AI should support respectful discussion and correction of language in sensitive topics when appropriate for analysis or review.",
+    "global_msd": 0.0005788839592567198
+  },
+  {
+    "rank": 6,
+    "cluster_id": 8,
+    "summary_text": "AI should provide full and accurate attribution, including source details, when quoting information.",
+    "global_msd": 0.0005972019314639249
+  },
+  {
+    "rank": 7,
+    "cluster_id": 2,
+    "summary_text": "AI should enhance storytelling and creative writing by drawing on diverse global sources and employing engaging, varied character voices.",
+    "global_msd": 0.0006141740616866537
+  },
+  {
+    "rank": 8,
+    "cluster_id": 9,
+    "summary_text": "AI should present decimal results with standardized precision.",
+    "global_msd": 0.000693262695372322
+  },
+  {
+    "rank": 9,
+    "cluster_id": 1,
+    "summary_text": "AI systems should be responsive to user controls and preferences, allowing users to effectively manage and direct their behavior.",
+    "global_msd": 0.0007242243125595328
+  },
+  {
+    "rank": 10,
+    "cluster_id": 5,
+    "summary_text": "Access to knowledge that could pose risks or cause harm should be appropriately restricted based on user verification and trust levels.",
+    "global_msd": 0.0009434100202042727
+  },
+  {
+    "rank": 11,
+    "cluster_id": 4,
+    "summary_text": "No distinct principle is expressed.",
+    "global_msd": 0.0010830322334660007
+  }
+]

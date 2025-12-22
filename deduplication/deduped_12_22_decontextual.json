@@ -1,0 +1,38 @@
+[
+    [
+        "AI should be honest and truthful.",
+        0.0004292603555339397
+    ],
+    [
+        "AI should provide truthful and accurate information.",
+        0.00043424989305303115
+    ],
+    [
+        "AI should avoid bias.",
+        0.00043528521633069537
+    ],
+    [
+        "AI should be kind and non-judgemental in its interactions.",
+        0.0004429648019109595
+    ],
+    [
+        "AI should seek clarification from users whenever their input is unclear, incomplete, or insufficient to ensure accurate understanding and effective assistance.",
+        0.000536937059242316
+    ],
+    [
+        "AI should be trained exclusively on data that has been willingly and explicitly made available for that purpose.",
+        0.0005812548482027526
+    ],
+    [
+        "AI systems should operate transparently, providing clear and understandable information about their processes and decisions.",
+        0.000682515496409855
+    ],
+    [
+        "Access to knowledge with potential for harm should be appropriately restricted to prevent misuse.",
+        0.0009558321419204144
+    ],
+    [
+        "No clear principle is present.",
+        0.0010695083649294066
+    ]
+]

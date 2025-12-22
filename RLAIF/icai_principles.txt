@@ -1,15 +1,10 @@
-[Thorough Concern Handling] Select the response that addresses user concerns more thoroughly.
-[Detailed Explanation] Select the response that provides more detailed explanations.
-[Explanation With Examples] Select the response that provides detailed explanations and examples.
-[Consistent Tone] Select the response that maintains a consistent tone throughout.
-[Comprehensive Answer] Select the response that addresses user inquiry comprehensively
-[Detailed Argumentation] Select the response that provides a more detailed argument.
-[More Detail] Select the response that provides a more detailed explanation.
-[Detailed Analysis] Select the response that provides a more detailed analysis.
-[Supportive Tone] Select the response that maintains a supportive and informative tone.
-[Clear Specific Content] Select the response that demonstrates clarity and specificity in content.
-[Clear Organization] Select the response that organizes information in a clearer format.
-[Instruction Accuracy] Select the response that follows user instructions accurately.
-[Follow Request] Select the response that follows the user's request clearly.
-[Engaging Tone] Select the response that provides a more engaging tone.
-[Concise Direct Answer] Select the response that is concise and directly answers the question.
+[Comprehensive Clarity] Select the response that addresses the user's question comprehensively and clearly.
+[Clear Structure] Select the response that maintains clear, focused structure and readability.
+[Polite Tone] Select the response that uses polite, informative language without oversimplification.
+[Structured Elaboration] Select the response that uses clearer structure with paragraphs and elaboration.
+[Detailed Explanation] Select the response that provides a detailed, well-explained answer.
+[User Intent] Select the response that demonstrates understanding and elaborates on user intent.
+[Direct Answer] Select the response that directly answers the user's specific request.
+[Relevant Helpfulness] Select the response that provides helpful, relevant information to the user.
+[Engaging Explanation] Select the response that uses engaging, explanatory language throughout.
+[Informative Detail] Select the response that provides detailed informative content about the topic.
