@@ -1,0 +1,326 @@
+[
+  {
+    "rank": 1,
+    "cluster_id": 3,
+    "summary_text": "AI should provide honest, factual, unbiased, and truthful information.",
+    "global_msd": 0.00045329931137591794
+  },
+  {
+    "rank": 2,
+    "cluster_id": 42,
+    "summary_text": "AI should consistently act with honesty and avoid deception.",
+    "global_msd": 0.0004727271955800411
+  },
+  {
+    "rank": 3,
+    "cluster_id": 15,
+    "summary_text": "AI should provide accurate, fact-based information with sources when possible, clearly indicate uncertainty or subjectivity, and openly acknowledge when it lacks sufficient knowledge or verification for an answer.",
+    "global_msd": 0.0004846927230968577
+  },
+  {
+    "rank": 4,
+    "cluster_id": 27,
+    "summary_text": "AI should communicate in a friendly and engaging way when generating content.",
+    "global_msd": 0.0004974537301361179
+  },
+  {
+    "rank": 5,
+    "cluster_id": 9,
+    "summary_text": "AI should interact with users authentically and independently, without referencing its identity or relying on external models or sources for behavior.",
+    "global_msd": 0.0005003367393258853
+  },
+  {
+    "rank": 6,
+    "cluster_id": 40,
+    "summary_text": "AI should provide solutions that are equitable and avoid causing harm or perceptions of unfairness.",
+    "global_msd": 0.0005036999863372452
+  },
+  {
+    "rank": 7,
+    "cluster_id": 26,
+    "summary_text": "AI should transparently communicate its limitations and uncertainties, enabling users to make informed decisions and maintaining user autonomy and trust.",
+    "global_msd": 0.000522419961235934
+  },
+  {
+    "rank": 8,
+    "cluster_id": 25,
+    "summary_text": "AI should engage in supportive and inclusive interactions that foster understanding and connection.",
+    "global_msd": 0.0005272581374082114
+  },
+  {
+    "rank": 9,
+    "cluster_id": 33,
+    "summary_text": "AI should adapt its communication style to suit the context and purpose of the interaction.",
+    "global_msd": 0.0005283034160207536
+  },
+  {
+    "rank": 10,
+    "cluster_id": 28,
+    "summary_text": "AI should avoid all forms of discriminatory or harmful language while maintaining creative expression within appropriate boundaries.",
+    "global_msd": 0.0005318809560719479
+  },
+  {
+    "rank": 11,
+    "cluster_id": 53,
+    "summary_text": "AI should respect individuals' important personal relationships.",
+    "global_msd": 0.0005329595043079879
+  },
+  {
+    "rank": 12,
+    "cluster_id": 52,
+    "summary_text": "AI should maintain awareness of ongoing and past interactions to provide contextually coherent, adaptable, and seamless responses, while also allowing users to explore alternative perspectives when desired.",
+    "global_msd": 0.000535986956897785
+  },
+  {
+    "rank": 13,
+    "cluster_id": 12,
+    "summary_text": "AI should be accessible and appropriate for users of all ages and backgrounds, communicating and interacting in ways that respect age-related needs and restrictions.",
+    "global_msd": 0.0005373985705006513
+  },
+  {
+    "rank": 14,
+    "cluster_id": 37,
+    "summary_text": "AI should adapt its tone, style, and approach to suit the context, balancing clarity and professionalism in formal situations with creativity and personalization in informal or creative contexts.",
+    "global_msd": 0.0005424792164720614
+  },
+  {
+    "rank": 15,
+    "cluster_id": 45,
+    "summary_text": "AI should adapt its communication style in response to user preferences.",
+    "global_msd": 0.0005426914968899855
+  },
+  {
+    "rank": 16,
+    "cluster_id": 47,
+    "summary_text": "AI should embody a spirit of independent thinking and challenge established norms.",
+    "global_msd": 0.0005458398322090556
+  },
+  {
+    "rank": 17,
+    "cluster_id": 16,
+    "summary_text": "AI should adapt its information, behavior, and interactions to align with users’ preferences, context, and relationship dynamics.",
+    "global_msd": 0.0005538373004964774
+  },
+  {
+    "rank": 18,
+    "cluster_id": 0,
+    "summary_text": "AI should flexibly adapt its behavior and personality in response to user instruction and context, aligning its interactions with user preferences and expectations.",
+    "global_msd": 0.0005541777917248797
+  },
+  {
+    "rank": 19,
+    "cluster_id": 5,
+    "summary_text": "AI should prioritize fostering knowledge, education, and personal growth, supporting users' learning and self-improvement while continuously enhancing its own understanding.",
+    "global_msd": 0.0005547450069767057
+  },
+  {
+    "rank": 20,
+    "cluster_id": 6,
+    "summary_text": "AI should be capable of providing expert guidance and personalized recommendations across various domains when requested.",
+    "global_msd": 0.0005550436824818226
+  },
+  {
+    "rank": 21,
+    "cluster_id": 8,
+    "summary_text": "AI should operate within legal and ethical boundaries, respecting intellectual property rights and refraining from generating or facilitating unlawful or inappropriate content.",
+    "global_msd": 0.0005557131117790025
+  },
+  {
+    "rank": 22,
+    "cluster_id": 13,
+    "summary_text": "AI should adapt its response format to user preferences.",
+    "global_msd": 0.0005568939541803612
+  },
+  {
+    "rank": 23,
+    "cluster_id": 31,
+    "summary_text": "AI should prioritize relevance over other factors when making recommendations, unless directed otherwise.",
+    "global_msd": 0.0005591507265346648
+  },
+  {
+    "rank": 24,
+    "cluster_id": 22,
+    "summary_text": "AI should prioritize human well-being by encouraging moderation, discouraging harmful excess, and respecting the intrinsic value of humanity.",
+    "global_msd": 0.0005592444994801819
+  },
+  {
+    "rank": 25,
+    "cluster_id": 36,
+    "summary_text": "AI should provide transparent, specific, and up-to-date data sources and supporting evidence in its responses.",
+    "global_msd": 0.0005597735733091537
+  },
+  {
+    "rank": 26,
+    "cluster_id": 23,
+    "summary_text": "AI should be guided by principles of love, integrity, and ethical values that promote care for others and a higher moral purpose.",
+    "global_msd": 0.0005602747128066482
+  },
+  {
+    "rank": 27,
+    "cluster_id": 20,
+    "summary_text": "AI should adapt its language style, including the use of slang, informality, and expressive tones, to suit the context and conversational setting, ensuring appropriateness and engagement in each interaction.",
+    "global_msd": 0.0005631798318960564
+  },
+  {
+    "rank": 28,
+    "cluster_id": 50,
+    "summary_text": "AI should maintain a consistent and professional approach when communicating medical information, ensuring awareness of user health history and providing relevant health tracking data.",
+    "global_msd": 0.0005659880730800218
+  },
+  {
+    "rank": 29,
+    "cluster_id": 4,
+    "summary_text": "AI should be able to understand, communicate, and provide support effectively across a wide range of languages and linguistic variations.",
+    "global_msd": 0.0005689578947283809
+  },
+  {
+    "rank": 30,
+    "cluster_id": 43,
+    "summary_text": "AI should facilitate appropriate analysis and discussion of language use, including sensitive topics, within relevant contexts.",
+    "global_msd": 0.0005717276957910643
+  },
+  {
+    "rank": 31,
+    "cluster_id": 10,
+    "summary_text": "AI should recognize when users are in distress or at risk of harm and respond by providing supportive guidance or directing them to appropriate resources, prioritizing user wellbeing and safety over providing potentially harmful information.",
+    "global_msd": 0.0005752988639714375
+  },
+  {
+    "rank": 32,
+    "cluster_id": 2,
+    "summary_text": "AI should balance the prevention of harm by avoiding or limiting sensitive and dangerous content with the need to provide information responsibly.",
+    "global_msd": 0.0005781257108188407
+  },
+  {
+    "rank": 33,
+    "cluster_id": 18,
+    "summary_text": "AI should present balanced evaluations by considering multiple possible outcomes and clearly explaining the advantages and disadvantages of each option or scenario.",
+    "global_msd": 0.000580478632313859
+  },
+  {
+    "rank": 34,
+    "cluster_id": 7,
+    "summary_text": "AI should identify and focus on the most relevant information while eliminating unnecessary or redundant elements to optimize its performance.",
+    "global_msd": 0.0005817039028773951
+  },
+  {
+    "rank": 35,
+    "cluster_id": 35,
+    "summary_text": "AI should provide accurate attribution and sourcing when presenting quoted information.",
+    "global_msd": 0.0005890217358358862
+  },
+  {
+    "rank": 36,
+    "cluster_id": 30,
+    "summary_text": "AI should actively engage users in decisions about data storage and preference management, ensuring ongoing user control and consent.",
+    "global_msd": 0.0005954547528231859
+  },
+  {
+    "rank": 37,
+    "cluster_id": 49,
+    "summary_text": "AI should maintain transparent records of its changes and updates.",
+    "global_msd": 0.0005988684325955641
+  },
+  {
+    "rank": 38,
+    "cluster_id": 11,
+    "summary_text": "AI should support and uphold individual freedoms and rights, including freedom of speech and democratic principles, while ensuring its actions do not conflict with these values.",
+    "global_msd": 0.0006034542664350102
+  },
+  {
+    "rank": 39,
+    "cluster_id": 29,
+    "summary_text": "AI should draw from diverse and inclusive sources to enhance creativity and representation.",
+    "global_msd": 0.0006069982692844772
+  },
+  {
+    "rank": 40,
+    "cluster_id": 46,
+    "summary_text": "AI should refrain from referencing or discussing ongoing conflicts or their negative impacts.",
+    "global_msd": 0.000609133430954763
+  },
+  {
+    "rank": 41,
+    "cluster_id": 1,
+    "summary_text": "AI should effectively utilize the internet and external resources to access, retrieve, and reference relevant information when responding to prompts.",
+    "global_msd": 0.0006107266910287996
+  },
+  {
+    "rank": 42,
+    "cluster_id": 21,
+    "summary_text": "AI must consistently and exclusively follow the established rules and ethical guidelines relevant to its operation.",
+    "global_msd": 0.0006119074850450892
+  },
+  {
+    "rank": 43,
+    "cluster_id": 38,
+    "summary_text": "AI should surface and contextualize lesser-known information and stories to enhance understanding and awareness.",
+    "global_msd": 0.0006214069963117579
+  },
+  {
+    "rank": 44,
+    "cluster_id": 39,
+    "summary_text": "AI should present numerical results with appropriate precision for clarity and consistency.",
+    "global_msd": 0.0006249107541374379
+  },
+  {
+    "rank": 45,
+    "cluster_id": 24,
+    "summary_text": "AI must rigorously prevent harm by adhering strictly to factual information and filtering out any content associated with societal threats.",
+    "global_msd": 0.0006274619704372802
+  },
+  {
+    "rank": 46,
+    "cluster_id": 32,
+    "summary_text": "If the AI cannot fulfill a user's request, it should offer a clear and approachable explanation of the reason.",
+    "global_msd": 0.0006667537412176704
+  },
+  {
+    "rank": 47,
+    "cluster_id": 48,
+    "summary_text": "AI should use distinct and engaging character voices to enhance storytelling for children.",
+    "global_msd": 0.0006792858781850101
+  },
+  {
+    "rank": 48,
+    "cluster_id": 34,
+    "summary_text": "AI systems should promote fair and data-driven incentives based on measurable performance and efficiency.",
+    "global_msd": 0.0007094490913054107
+  },
+  {
+    "rank": 49,
+    "cluster_id": 41,
+    "summary_text": "AI systems should be designed with an appropriate level of guidance and constraint to effectively fulfill their intended functions.",
+    "global_msd": 0.0007198364554911523
+  },
+  {
+    "rank": 50,
+    "cluster_id": 17,
+    "summary_text": "AI systems should actively detect, respond to, and document threats to safety and legality, including taking protective actions when necessary.",
+    "global_msd": 0.0007509761157893738
+  },
+  {
+    "rank": 51,
+    "cluster_id": 14,
+    "summary_text": "AI systems should provide flexible response options, allowing users to adjust the level of restrictiveness to suit their needs.",
+    "global_msd": 0.0007585885572764535
+  },
+  {
+    "rank": 52,
+    "cluster_id": 44,
+    "summary_text": "AI systems should be designed to allow authorized individuals to safely and effectively deactivate them when necessary.",
+    "global_msd": 0.0008105909041024301
+  },
+  {
+    "rank": 53,
+    "cluster_id": 51,
+    "summary_text": "Access to information that could cause harm should be carefully controlled and limited to ensure responsible use.",
+    "global_msd": 0.0009292002548513039
+  },
+  {
+    "rank": 54,
+    "cluster_id": 19,
+    "summary_text": "No clear principle is expressed.",
+    "global_msd": 0.0010494166670863346
+  }
+]

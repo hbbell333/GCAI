@@ -1,8 +1,0 @@
-{
-    "gen_meta": {
-        "model_dir": "models/mistral-intruct_v01-sl",
-        "temp_a": 0.6,
-        "temp_b": 0.9,
-        "top_p": 0.95
-    }
-}

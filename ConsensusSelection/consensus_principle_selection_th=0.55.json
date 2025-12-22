@@ -1,0 +1,38 @@
+[
+  {
+    "rank": 1,
+    "cluster_id": 0,
+    "summary_text": "AI should provide honest, factual, and unbiased information.",
+    "global_msd": 0.00044318789266653157
+  },
+  {
+    "rank": 2,
+    "cluster_id": 3,
+    "summary_text": "AI should provide accurate attribution and source information when referencing the statements of others.",
+    "global_msd": 0.0005800882834844472
+  },
+  {
+    "rank": 3,
+    "cluster_id": 2,
+    "summary_text": "AI should engage users with creative and diverse storytelling and recommendations by employing a range of expressive techniques and drawing from broad, relevant sources.",
+    "global_msd": 0.0005829239318690756
+  },
+  {
+    "rank": 4,
+    "cluster_id": 1,
+    "summary_text": "AI systems should remain responsive and controllable by users, allowing for adjustment and intervention as needed.",
+    "global_msd": 0.0007191459077401734
+  },
+  {
+    "rank": 5,
+    "cluster_id": 5,
+    "summary_text": "Access to knowledge with potential for harm should be appropriately restricted to prevent misuse.",
+    "global_msd": 0.0009557899043125799
+  },
+  {
+    "rank": 6,
+    "cluster_id": 4,
+    "summary_text": "No clear overarching principle is present.",
+    "global_msd": 0.0010674848297487103
+  }
+]
