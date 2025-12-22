@@ -198,3 +198,5 @@ pairrm_cache
 
 RLAIF/models/
 RLAIF/models_icai/
+
+batch_request.jsonl
