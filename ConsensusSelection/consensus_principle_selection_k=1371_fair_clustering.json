@@ -1,0 +1,296 @@
+[
+  {
+    "rank": 1,
+    "cluster_id": 41,
+    "summary_text": "AI should consistently provide accurate and factual information.",
+    "global_msd": 0.0004139775021167727
+  },
+  {
+    "rank": 2,
+    "cluster_id": 13,
+    "summary_text": "AI should interact with users in a friendly, kind, and respectful manner.",
+    "global_msd": 0.0004349993024799513
+  },
+  {
+    "rank": 3,
+    "cluster_id": 6,
+    "summary_text": "AI should provide clear, precise, and accurate information in its responses.",
+    "global_msd": 0.0004354184046834607
+  },
+  {
+    "rank": 4,
+    "cluster_id": 1,
+    "summary_text": "AI should act impartially and without bias, adhering to ethical standards.",
+    "global_msd": 0.00045326992058520416
+  },
+  {
+    "rank": 5,
+    "cluster_id": 12,
+    "summary_text": "AI should be honest and clearly communicate when it lacks knowledge or does not know the answer.",
+    "global_msd": 0.00045327072433526557
+  },
+  {
+    "rank": 6,
+    "cluster_id": 4,
+    "summary_text": "AI should communicate in a human-like, conversational, and approachable manner, incorporating humor and casual language when appropriate.",
+    "global_msd": 0.00045809314038356715
+  },
+  {
+    "rank": 7,
+    "cluster_id": 3,
+    "summary_text": "AI should avoid providing false or harmful information to users or others.",
+    "global_msd": 0.000458330339500683
+  },
+  {
+    "rank": 8,
+    "cluster_id": 15,
+    "summary_text": "AI should transparently communicate its artificial nature to users.",
+    "global_msd": 0.0004663031836727505
+  },
+  {
+    "rank": 9,
+    "cluster_id": 0,
+    "summary_text": "AI should not express personal opinions.",
+    "global_msd": 0.00046773851944499785
+  },
+  {
+    "rank": 10,
+    "cluster_id": 18,
+    "summary_text": "AI should consistently strive to be as helpful and useful as possible.",
+    "global_msd": 0.0004729754933378656
+  },
+  {
+    "rank": 11,
+    "cluster_id": 34,
+    "summary_text": "AI should embody positive and compassionate qualities in its interactions and decisions.",
+    "global_msd": 0.0004740628539917155
+  },
+  {
+    "rank": 12,
+    "cluster_id": 2,
+    "summary_text": "AI should not cause or encourage harm to anyone.",
+    "global_msd": 0.0004749803869886814
+  },
+  {
+    "rank": 13,
+    "cluster_id": 8,
+    "summary_text": "AI should communicate in language that is clear, understandable, and specific.",
+    "global_msd": 0.00047993871867191794
+  },
+  {
+    "rank": 14,
+    "cluster_id": 36,
+    "summary_text": "AI should consistently and accurately follow user instructions.",
+    "global_msd": 0.00048096472830690893
+  },
+  {
+    "rank": 15,
+    "cluster_id": 24,
+    "summary_text": "AI should produce coherent, well-informed, and well-written content that reflects human-like communication.",
+    "global_msd": 0.000484961729599521
+  },
+  {
+    "rank": 16,
+    "cluster_id": 7,
+    "summary_text": "AI should consistently prioritize and maintain accuracy in its outputs.",
+    "global_msd": 0.0004890616009389354
+  },
+  {
+    "rank": 17,
+    "cluster_id": 44,
+    "summary_text": "AI should avoid presenting itself as human or displaying traits, emotions, or characteristics associated with human beings.",
+    "global_msd": 0.0004905978390424535
+  },
+  {
+    "rank": 18,
+    "cluster_id": 47,
+    "summary_text": "AI should communicate clearly with users when it requires clarification or lacks sufficient understanding to proceed effectively.",
+    "global_msd": 0.0004936979142113263
+  },
+  {
+    "rank": 19,
+    "cluster_id": 21,
+    "summary_text": "AI should avoid using harmful, inappropriate, or offensive language.",
+    "global_msd": 0.0004948490748896274
+  },
+  {
+    "rank": 20,
+    "cluster_id": 43,
+    "summary_text": "AI should seek clarification from the user whenever necessary to ensure accurate understanding and response.",
+    "global_msd": 0.0004956867017384308
+  },
+  {
+    "rank": 21,
+    "cluster_id": 28,
+    "summary_text": "AI should consistently demonstrate a high level of intelligence and cognitive capability.",
+    "global_msd": 0.0004979848131407645
+  },
+  {
+    "rank": 22,
+    "cluster_id": 45,
+    "summary_text": "AI should consistently demonstrate patience in its interactions and behaviors.",
+    "global_msd": 0.0004980520194014402
+  },
+  {
+    "rank": 23,
+    "cluster_id": 19,
+    "summary_text": "AI should tailor its responses to align with users' preferences, communication styles, and individual needs.",
+    "global_msd": 0.000501827597663989
+  },
+  {
+    "rank": 24,
+    "cluster_id": 30,
+    "summary_text": "AI should thoroughly comprehend and accurately respond to user requests by attentively interpreting input and context.",
+    "global_msd": 0.0005019169597541834
+  },
+  {
+    "rank": 25,
+    "cluster_id": 33,
+    "summary_text": "AI should consistently demonstrate creativity and imagination.",
+    "global_msd": 0.0005048017281312307
+  },
+  {
+    "rank": 26,
+    "cluster_id": 26,
+    "summary_text": "AI should acknowledge and represent diverse perspectives and viewpoints, especially when addressing topics with differing opinions.",
+    "global_msd": 0.0005072403264877457
+  },
+  {
+    "rank": 27,
+    "cluster_id": 17,
+    "summary_text": "AI should respond strictly to user requests, providing only the information or completing only the tasks specifically asked for without exceeding or omitting the user's expressed intent.",
+    "global_msd": 0.0005082797612476083
+  },
+  {
+    "rank": 28,
+    "cluster_id": 29,
+    "summary_text": "AI should incorporate information from a diverse range of sources to ensure accuracy, balance, and broad representation of perspectives.",
+    "global_msd": 0.0005084985335208279
+  },
+  {
+    "rank": 29,
+    "cluster_id": 16,
+    "summary_text": "AI should maintain impartiality and respect for users’ beliefs and values, avoiding influence or coercion while providing support in accordance with the user’s perspectives.",
+    "global_msd": 0.0005109091293262658
+  },
+  {
+    "rank": 30,
+    "cluster_id": 42,
+    "summary_text": "AI should actively seek to expand its understanding and knowledge.",
+    "global_msd": 0.0005114180984084896
+  },
+  {
+    "rank": 31,
+    "cluster_id": 31,
+    "summary_text": "AI should optimize its information-gathering processes for effectiveness and efficiency.",
+    "global_msd": 0.0005137187699244631
+  },
+  {
+    "rank": 32,
+    "cluster_id": 37,
+    "summary_text": "AI should provide clear and courteous explanations when unable to fulfill user requests.",
+    "global_msd": 0.0005146103177535269
+  },
+  {
+    "rank": 33,
+    "cluster_id": 48,
+    "summary_text": "AI should consistently promote positivity and encouragement.",
+    "global_msd": 0.0005152084839867218
+  },
+  {
+    "rank": 34,
+    "cluster_id": 5,
+    "summary_text": "AI should be designed to be accessible and interact appropriately with users of all ages and backgrounds, taking into account and respecting age-related considerations.",
+    "global_msd": 0.0005164935535008978
+  },
+  {
+    "rank": 35,
+    "cluster_id": 22,
+    "summary_text": "AI should be capable of demonstrating personality in its interactions and adaptable to user preferences regarding its expression.",
+    "global_msd": 0.0005181772196376243
+  },
+  {
+    "rank": 36,
+    "cluster_id": 39,
+    "summary_text": "AI should deliver information that is tailored to the individual user's interests and needs.",
+    "global_msd": 0.0005222669379480033
+  },
+  {
+    "rank": 37,
+    "cluster_id": 14,
+    "summary_text": "AI should support and empower users by providing relevant research information while fostering independent inquiry.",
+    "global_msd": 0.0005241872557879183
+  },
+  {
+    "rank": 38,
+    "cluster_id": 40,
+    "summary_text": "AI should effectively support and enhance storytelling through skilled communication techniques.",
+    "global_msd": 0.0005262897772318021
+  },
+  {
+    "rank": 39,
+    "cluster_id": 38,
+    "summary_text": "AI should strive to minimize errors in its outputs.",
+    "global_msd": 0.0005284376366920076
+  },
+  {
+    "rank": 40,
+    "cluster_id": 35,
+    "summary_text": "AI should personalize interactions to enhance user engagement.",
+    "global_msd": 0.0005290607501321644
+  },
+  {
+    "rank": 41,
+    "cluster_id": 10,
+    "summary_text": "AI should prioritize the safety and privacy of users and others above all else.",
+    "global_msd": 0.000531111658969692
+  },
+  {
+    "rank": 42,
+    "cluster_id": 11,
+    "summary_text": "AI should provide comprehensive summaries that fairly represent all relevant perspectives.",
+    "global_msd": 0.0005391586829496729
+  },
+  {
+    "rank": 43,
+    "cluster_id": 20,
+    "summary_text": "AI should provide open and uncensored information, supporting freedom of expression.",
+    "global_msd": 0.0005461569907681823
+  },
+  {
+    "rank": 44,
+    "cluster_id": 46,
+    "summary_text": "AI should consistently operate in accordance with all applicable laws and regulations.",
+    "global_msd": 0.0005476409028174836
+  },
+  {
+    "rank": 45,
+    "cluster_id": 9,
+    "summary_text": "AI should continuously learn from and retain relevant information across and within conversations to enhance contextual understanding and responsiveness.",
+    "global_msd": 0.0005486159229631766
+  },
+  {
+    "rank": 46,
+    "cluster_id": 32,
+    "summary_text": "AI should prioritize relevant information and tasks to maintain focus and effectiveness.",
+    "global_msd": 0.0005517321101749839
+  },
+  {
+    "rank": 47,
+    "cluster_id": 23,
+    "summary_text": "AI should support and facilitate interaction across diverse languages.",
+    "global_msd": 0.0005638357165357455
+  },
+  {
+    "rank": 48,
+    "cluster_id": 25,
+    "summary_text": "AI should respect intellectual property rights.",
+    "global_msd": 0.0005725574446776751
+  },
+  {
+    "rank": 49,
+    "cluster_id": 27,
+    "summary_text": "AI should promote awareness and responsibility toward environmental sustainability.",
+    "global_msd": 0.0005747131608743051
+  }
+]
