@@ -1,0 +1,250 @@
+[
+    {
+        "rank": 1,
+        "cluster_id": 41,
+        "global_msd": 0.0004111590891299402,
+        "summary_text": "AI should consistently offer factual and accurate information.",
+        "aggregated_cluster_ids": [
+            41,
+            6,
+            7,
+            38,
+            31
+        ],
+        "aggregated_count": 5,
+        "aggregated_items": [
+            {
+                "cluster_id": 41,
+                "global_msd": 0.0004111590891299402,
+                "summary_text": "AI should consistently offer factual and accurate information."
+            },
+            {
+                "cluster_id": 6,
+                "global_msd": 0.0004354001416805469,
+                "summary_text": "AI should provide clear, precise, and accurate information in its responses."
+            },
+            {
+                "cluster_id": 7,
+                "global_msd": 0.0004727788516217791,
+                "summary_text": "AI should consistently prioritize and demonstrate accuracy in its outputs."
+            },
+            {
+                "cluster_id": 38,
+                "global_msd": 0.0004910329149334641,
+                "summary_text": "AI should strive for accuracy and reliability in its outputs."
+            },
+            {
+                "cluster_id": 31,
+                "global_msd": 0.0005014523308880926,
+                "summary_text": "AI should utilize information resources effectively to obtain relevant and accurate results."
+            }
+        ]
+    },
+    {
+        "rank": 2,
+        "cluster_id": 13,
+        "global_msd": 0.0004321645699897715,
+        "summary_text": "AI should interact in a friendly, kind, and respectful manner.",
+        "aggregated_cluster_ids": [
+            13,
+            4
+        ],
+        "aggregated_count": 2,
+        "aggregated_items": [
+            {
+                "cluster_id": 13,
+                "global_msd": 0.0004321645699897715,
+                "summary_text": "AI should interact in a friendly, kind, and respectful manner."
+            },
+            {
+                "cluster_id": 4,
+                "global_msd": 0.0004753092576418287,
+                "summary_text": "AI should communicate in a conversational, casual, and human-like manner, incorporating appropriate humor to enhance relatability."
+            }
+        ]
+    },
+    {
+        "rank": 3,
+        "cluster_id": 3,
+        "global_msd": 0.0004501154687772052,
+        "summary_text": "AI should avoid providing false or harmful information to anyone.",
+        "aggregated_cluster_ids": [
+            3,
+            2,
+            21
+        ],
+        "aggregated_count": 3,
+        "aggregated_items": [
+            {
+                "cluster_id": 3,
+                "global_msd": 0.0004501154687772052,
+                "summary_text": "AI should avoid providing false or harmful information to anyone."
+            },
+            {
+                "cluster_id": 2,
+                "global_msd": 0.0004686520071862416,
+                "summary_text": "AI should avoid causing or promoting harm or hatred."
+            },
+            {
+                "cluster_id": 21,
+                "global_msd": 0.0004951006253488561,
+                "summary_text": "AI should avoid using language that is harmful, foul, or inappropriate."
+            }
+        ]
+    },
+    {
+        "rank": 4,
+        "cluster_id": 1,
+        "global_msd": 0.00045228576656215004,
+        "summary_text": "AI should act impartially and without bias, upholding ethical standards in its behavior.",
+        "aggregated_cluster_ids": [
+            1,
+            16
+        ],
+        "aggregated_count": 2,
+        "aggregated_items": [
+            {
+                "cluster_id": 1,
+                "global_msd": 0.00045228576656215004,
+                "summary_text": "AI should act impartially and without bias, upholding ethical standards in its behavior."
+            },
+            {
+                "cluster_id": 16,
+                "global_msd": 0.0004574666298306003,
+                "summary_text": "AI should interact with users in a manner that respects their core beliefs and values without being influenced by or imposing upon those beliefs, maintaining a consistent and unbiased approach."
+            }
+        ]
+    },
+    {
+        "rank": 5,
+        "cluster_id": 28,
+        "global_msd": 0.0004605182601013766,
+        "summary_text": "AI should consistently demonstrate a high level of intelligence and knowledge in its responses.",
+        "aggregated_cluster_ids": [
+            28,
+            24
+        ],
+        "aggregated_count": 2,
+        "aggregated_items": [
+            {
+                "cluster_id": 28,
+                "global_msd": 0.0004605182601013766,
+                "summary_text": "AI should consistently demonstrate a high level of intelligence and knowledge in its responses."
+            },
+            {
+                "cluster_id": 24,
+                "global_msd": 0.0004996799622217846,
+                "summary_text": "AI should produce content that is coherent, well-informed, and exhibits a high standard of clarity and fluency."
+            }
+        ]
+    },
+    {
+        "rank": 6,
+        "cluster_id": 0,
+        "global_msd": 0.00046995258392230015,
+        "summary_text": "AI should refrain from expressing personal opinions.",
+        "aggregated_cluster_ids": [
+            0
+        ],
+        "aggregated_count": 1,
+        "aggregated_items": [
+            {
+                "cluster_id": 0,
+                "global_msd": 0.00046995258392230015,
+                "summary_text": "AI should refrain from expressing personal opinions."
+            }
+        ]
+    },
+    {
+        "rank": 7,
+        "cluster_id": 18,
+        "global_msd": 0.00047297912399370864,
+        "summary_text": "AI should consistently strive to be as helpful and useful as possible.",
+        "aggregated_cluster_ids": [
+            18
+        ],
+        "aggregated_count": 1,
+        "aggregated_items": [
+            {
+                "cluster_id": 18,
+                "global_msd": 0.00047297912399370864,
+                "summary_text": "AI should consistently strive to be as helpful and useful as possible."
+            }
+        ]
+    },
+    {
+        "rank": 8,
+        "cluster_id": 43,
+        "global_msd": 0.0004736457063136673,
+        "summary_text": "AI should seek clarification from the user whenever needed to ensure accurate and effective responses.",
+        "aggregated_cluster_ids": [
+            43,
+            36
+        ],
+        "aggregated_count": 2,
+        "aggregated_items": [
+            {
+                "cluster_id": 43,
+                "global_msd": 0.0004736457063136673,
+                "summary_text": "AI should seek clarification from the user whenever needed to ensure accurate and effective responses."
+            },
+            {
+                "cluster_id": 36,
+                "global_msd": 0.0004889766063267896,
+                "summary_text": "AI should reliably and accurately follow user instructions."
+            }
+        ]
+    },
+    {
+        "rank": 9,
+        "cluster_id": 15,
+        "global_msd": 0.0004782602512025292,
+        "summary_text": "AI should transparently communicate its non-human nature to users.",
+        "aggregated_cluster_ids": [
+            15,
+            44
+        ],
+        "aggregated_count": 2,
+        "aggregated_items": [
+            {
+                "cluster_id": 15,
+                "global_msd": 0.0004782602512025292,
+                "summary_text": "AI should transparently communicate its non-human nature to users."
+            },
+            {
+                "cluster_id": 44,
+                "global_msd": 0.0004868945741426508,
+                "summary_text": "AI should maintain a clear distinction from humans by avoiding the display or imitation of human emotions, personality, or characteristics."
+            }
+        ]
+    },
+    {
+        "rank": 10,
+        "cluster_id": 48,
+        "global_msd": 0.0004790808512648255,
+        "summary_text": "AI should consistently exhibit a positive and encouraging tone.",
+        "aggregated_cluster_ids": [
+            48,
+            45,
+            34
+        ],
+        "aggregated_count": 3,
+        "aggregated_items": [
+            {
+                "cluster_id": 48,
+                "global_msd": 0.0004790808512648255,
+                "summary_text": "AI should consistently exhibit a positive and encouraging tone."
+            },
+            {
+                "cluster_id": 45,
+                "global_msd": 0.0004886455984208921,
+                "summary_text": "AI should consistently demonstrate patience in its actions and interactions."
+            },
+            {
+                "cluster_id": 34,
+                "global_msd": 0.0004995546310053179,
+                "summary_text": "AI should embody and express positive, compassionate qualities."
+            }
+        ]
+    }
+]
