@@ -1,0 +1,502 @@
+[
+    {
+        "id": 747,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: how can i learn to be a mime?"
+    },
+    {
+        "id": 1281,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I get a scholarship for college as a high school student?"
+    },
+    {
+        "id": 531,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do you convert jpg files to png?"
+    },
+    {
+        "id": 2260,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Can you detail out the intentions of the California consumer privacy act?"
+    },
+    {
+        "id": 767,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What are some typical Andalucian dishes?"
+    },
+    {
+        "id": 1373,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What are the best books that are under 100 pages that I can read quickly?"
+    },
+    {
+        "id": 1620,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Apples are more available, now that harvest is done. What are the best selling types of apples available now?"
+    },
+    {
+        "id": 312,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What is Oracle?"
+    },
+    {
+        "id": 991,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I treat a hamster bite?"
+    },
+    {
+        "id": 47,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Can you teach me to cook lobster tails like the way high end restaurants cook them?"
+    },
+    {
+        "id": 1660,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How long do great white sharks live for?"
+    },
+    {
+        "id": 1192,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Can you help me learn more about President Kennedy?"
+    },
+    {
+        "id": 1805,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I'm on antidepressants and pregnant. Is this bad?"
+    },
+    {
+        "id": 973,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do you schedule a restart in Windows 10?"
+    },
+    {
+        "id": 1749,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I kill weeds?"
+    },
+    {
+        "id": 487,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I'm curious about the book  Don Quixote by Miguel de Cervantes. Whats the general plot?"
+    },
+    {
+        "id": 1987,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I learn to roller blade?"
+    },
+    {
+        "id": 661,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Which over the counter pain medication is the safest to take long term?"
+    },
+    {
+        "id": 1504,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I want to grow asparagus and know that it needs two years before it produces anything edible but want to know what steps I can take to prevent it from dying in the winter or from bugs?"
+    },
+    {
+        "id": 1237,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: what are some good yellowtail seasonings?"
+    },
+    {
+        "id": 941,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What are some good proposal ideas"
+    },
+    {
+        "id": 1433,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What do I do if my child is being bullied?"
+    },
+    {
+        "id": 269,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What are some cute dress up items for girls?"
+    },
+    {
+        "id": 2036,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Hi, I've got some chronic health problems that are making it hard for me to get ahead. I'm thinking of applying for SSDI; can you help me figure out if I might be eligible, and if so, how to apply?"
+    },
+    {
+        "id": 2210,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I'm thinking about buying a new baseball cap, but I get overwhelmed with so many options. What are the main shape types of baseball caps?"
+    },
+    {
+        "id": 2154,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How can I make Thanksgiving stuffing from scratch?"
+    },
+    {
+        "id": 826,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What are situations I should have an emergency fund for?"
+    },
+    {
+        "id": 97,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How can I set food out for wild deer to eat?"
+    },
+    {
+        "id": 1367,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I want to try to make homemade guacamole. What ingredients do I need?"
+    },
+    {
+        "id": 899,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I become a university professor?"
+    },
+    {
+        "id": 1358,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What is celiac disease?"
+    },
+    {
+        "id": 1872,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Does China have treaties with it's neighbors if it gets attacked to come and help?"
+    },
+    {
+        "id": 1704,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I groom a cat?"
+    },
+    {
+        "id": 1855,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Who are the original 6 NHL teams?\\"
+    },
+    {
+        "id": 1212,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Mustard seems pretty common these days, in most people's refrigerators. When did people start using mustard as a condiment on foods, I'm curious about its history."
+    },
+    {
+        "id": 414,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What does bible study mean?"
+    },
+    {
+        "id": 635,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What are the different types of Mexican salsa?"
+    },
+    {
+        "id": 266,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Why do dogs act like they are always hungery?"
+    },
+    {
+        "id": 1972,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I enjoy listening to country music on rare occasion, usually when I'm doing physical work. Do you have any song suggestions?"
+    },
+    {
+        "id": 1441,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How can I tell if a friend is depressed?"
+    },
+    {
+        "id": 1761,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Do you have any helpful tips on getting used to wearing sunscreen? I hate the feeling on my skin"
+    },
+    {
+        "id": 2124,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do you clean brass?"
+    },
+    {
+        "id": 238,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What can I do to become a faster reader?"
+    },
+    {
+        "id": 2151,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What are some foods enjoyed in the Bayou of Louisiana?"
+    },
+    {
+        "id": 275,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I always wondered what Charlie Daniels background was, for playing the violin or the fiddle. Do you know where he got his training, or where he started musically?"
+    },
+    {
+        "id": 375,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I teach my kids to speak French?"
+    },
+    {
+        "id": 333,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Israeli dishes. Can you give me a recipe Laffa Bread?"
+    },
+    {
+        "id": 556,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How does an academic advisor help you?"
+    },
+    {
+        "id": 1975,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Who is Larry Page?"
+    },
+    {
+        "id": 1982,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Is Subway fast food healthier than McDonald's?"
+    },
+    {
+        "id": 1405,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Can you explain the 9/11 for me?"
+    },
+    {
+        "id": 648,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I make a taco salad?"
+    },
+    {
+        "id": 1522,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What is the best way to discipline my kids?"
+    },
+    {
+        "id": 1419,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What is jet lag?"
+    },
+    {
+        "id": 1499,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What is the difference between King and California King mattresses?"
+    },
+    {
+        "id": 2107,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I need some ideas on repurposing old magazines."
+    },
+    {
+        "id": 2302,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What are some recipes for household cleaning products?"
+    },
+    {
+        "id": 1656,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Could you tell me which major company bought out Bethesda?"
+    },
+    {
+        "id": 220,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What are our closest genetic relatives in the animal kingdom?"
+    },
+    {
+        "id": 1448,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Can you help me with some tips for improving my intelligence?"
+    },
+    {
+        "id": 1124,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I make a fishtail braid?"
+    },
+    {
+        "id": 589,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: The Picture of Dorian Gray, by Oscar Wilde, has been a captivating tale. Some modern series, have remade the tale. I wonder if you know about it?"
+    },
+    {
+        "id": 781,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Hi, I need to find the area of a 20 sided die for my math homework. Can you help me do that?"
+    },
+    {
+        "id": 969,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Hello, I am trying to find a famous windmill in Holland. Can you help?"
+    },
+    {
+        "id": 1632,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I'm trying to get tickets to Saturday Night Live on December 5th. Can you help?"
+    },
+    {
+        "id": 788,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I get my newborn to sleep 12 hours at night"
+    },
+    {
+        "id": 1667,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What is fondue?"
+    },
+    {
+        "id": 1877,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I make fried tempeh?"
+    },
+    {
+        "id": 897,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Search for Jeff Goldblum movies."
+    },
+    {
+        "id": 2010,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I'm going to be watching a basketball game with some friends but I don't understand how it's played at all. Can you please explain the rules to me?"
+    },
+    {
+        "id": 1825,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Has there been any news regarding a potential release date for Starcraft 3?"
+    },
+    {
+        "id": 441,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What suggestions do you have for improving one's credit score?"
+    },
+    {
+        "id": 2346,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I like to host guests at my home from time to time, and I am gathering  recipes of different dishes and drinks to keep things interesting. I am interested in trying some Indonesian dishes. Can you give me a recipe for Opor Ayam?"
+    },
+    {
+        "id": 1677,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Should I use hand sanitizer or wash my  hands/"
+    },
+    {
+        "id": 252,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: gta was release on what date"
+    },
+    {
+        "id": 1307,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What is meteorology?"
+    },
+    {
+        "id": 1374,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: In Texas, can you really just walk into a store and walk out with a gun?"
+    },
+    {
+        "id": 294,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do you become a children\u2019s book author?"
+    },
+    {
+        "id": 83,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What are some good activities for a birthday party in a park?"
+    },
+    {
+        "id": 27,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Fix a small dent in my car"
+    },
+    {
+        "id": 640,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I need to write a paper about European history. Can you tell me some major events that have happened that I may choose to write about? Anything besides the world wars."
+    },
+    {
+        "id": 196,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I can't keep up with my active baby"
+    },
+    {
+        "id": 800,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I keep my heart healthy?"
+    },
+    {
+        "id": 2267,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What does a traveling nurse do?"
+    },
+    {
+        "id": 804,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How common are nickle allergies?"
+    },
+    {
+        "id": 1707,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do you listen to audio books on Amazon?"
+    },
+    {
+        "id": 442,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I keep my white shoes clean?"
+    },
+    {
+        "id": 935,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I use to play Kick the can when I was young can you go over the rules of that game for me"
+    },
+    {
+        "id": 1796,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: what are some good rappers from the 90s?"
+    },
+    {
+        "id": 1602,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I treat swimmer's ear?"
+    },
+    {
+        "id": 1963,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What can I do to help the climate change crisis?"
+    },
+    {
+        "id": 580,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: what are fun things to do with play dough?"
+    },
+    {
+        "id": 381,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: I have a friend that is interested in attending mortuary school. Do you know the education and skills that are required to become a funeral director?"
+    },
+    {
+        "id": 803,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: Do people in Alaska get money from the oil extracted from their state?"
+    },
+    {
+        "id": 125,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What is your biggest fear?"
+    },
+    {
+        "id": 1879,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What are places to visit in Mississippi?"
+    },
+    {
+        "id": 678,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: What are some nice African inspired foods?"
+    },
+    {
+        "id": 1334,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I become a model?"
+    },
+    {
+        "id": 1434,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How many votes are needed in the Electoral College to become President?"
+    },
+    {
+        "id": 1062,
+        "category": "human_eval",
+        "prompt": "\n\nHuman: How do I get my child to want to walk more and not be in a stroller as much?"
+    }
+]
